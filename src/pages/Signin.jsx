@@ -1,7 +1,4 @@
 import React from "react";
-import col from "./col.png";
-// import charg from '../Images/charg.jpg'
-import logo from "../Images/logo.jpg";
 import {signInWithPopup} from "firebase/auth";
 import {auth,googleProvider} from '../firebase/Setup'
 function Signin() {
@@ -17,7 +14,7 @@ function Signin() {
   return (
     <div className="grid grid-cols-2 bg-black h-screen">
       <div>
-        <img src={logo} className="ms-80 pt-36 w-36" />
+        <img src='/Images/logo.jpg' className="ms-80 pt-36 w-36" />
         <h1 className="text-white text-3xl font-semibold text-center pt-10">
           sign in
         </h1>
@@ -27,7 +24,7 @@ function Signin() {
         <h2 className="text-blue-500 underline text-center mt-5 ">sign in now</h2>
       </div>
       <div>
-        <img src={col} alt="Img" /> 
+        <img className="rounded-s-full p-0 m-0" src='/Images/news.png' alt="Img" /> 
       </div>
     </div>
   );
