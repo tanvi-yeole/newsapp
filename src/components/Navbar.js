@@ -25,13 +25,13 @@ const Navbar = () => {
             News
           </li>
           <li className="after:bg-white after:w-0 hover:after:w-full after:h-[1px] after:transition-all after:duration-200 after:block cursor-pointer">
-            Sport
+            <Link to="/sport">Sport</Link>
           </li>
           <li className="after:bg-white after:w-0 hover:after:w-full after:h-[1px] after:transition-all after:duration-200 after:block cursor-pointer">
             Travel
           </li>
           <li className="after:bg-white after:w-0 hover:after:w-full after:h-[1px] after:transition-all after:duration-200 after:block cursor-pointer">
-            Entertainment
+            <Link to="/entertainment">Entertainment</Link>
           </li>
           <li className="after:bg-white after:w-0 hover:after:w-full after:h-[1px] after:transition-all after:duration-200 after:block cursor-pointer">
             Fashion

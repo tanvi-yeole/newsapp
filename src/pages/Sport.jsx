@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import News from "../components/News";
 import NewsCard from "../components/Newscard";
 
-const Music = () => {
+const Sport = () => {
   const [data, setData] = React.useState([]);
   useEffect(() => {
     const fetchData = async () => {
@@ -33,7 +33,8 @@ const Music = () => {
         <button type="button class="bg-red-500>Next &rarr;</button>
       </div>
     </div>
+    
   );
 };
 
-export default Music;
+export default Sport;

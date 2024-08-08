@@ -27,7 +27,13 @@ const Homepage = () => {
           url={news.url}
         />
       ))}
+      <div>
+        <div className="container flex flex-justify-between"/>
+        <button type="button class="bg-red-500> &larr; Previous</button>
+        <button type="button class="bg-red-500>Next &rarr;</button>
+      </div>
     </div>
+    
   );
 };
 

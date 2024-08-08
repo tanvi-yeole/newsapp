@@ -4,6 +4,8 @@ import Signin from "./pages/Signin";
 import Homepage from "./pages/Homepage";
 import About from "./pages/About";
 import Music from "./pages/Music";
+import Sport from "./pages/Sport";
+import Entertainment from "./pages/Entertainment";
 import { Route, Routes } from "react-router-dom";
 export default function App() {
   return (
@@ -14,6 +16,8 @@ export default function App() {
         <Route path="/signin" element={<Signin />} />
         <Route path="/music" element={<Music />} />
         <Route path="/about" element={<About />} />
+        <Route path="/sport" element={<Sport />} />
+        <Route path="/entertainment" element={<Entertainment />} />
       </Routes>
       {/* <Signin/> */}
 

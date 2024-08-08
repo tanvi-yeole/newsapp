@@ -1,5 +1,4 @@
 import React from "react";
-
 const NewsCard = ({ title, description, imgSrc, url }) => {
   return (
     <>
@@ -7,11 +6,8 @@ const NewsCard = ({ title, description, imgSrc, url }) => {
         <div className="flex flex-col h-full">
           <div className="w-full">
             <img
-              src={imgSrc}
+              src={!imgSrc?"/Images/news.png" : imgSrc}
               alt="New Image"
-              onError={(e) => {
-                e.target.src = "/Images/news.png";
-              }}
               className="w-full object-cover object-center max-h-[300px]"
             />
           </div>
