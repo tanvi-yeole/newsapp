@@ -1,266 +1,1306 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 5887,
   "articles": [
-    {
-      "source": {
-        "id": "thewashingtonpost",
-        "name": "The Washington Post"
-      },
-      "author": "Keith L. Alexander",
-      "title": "U.S. marshal shoots teen in carjacking attempt near Sotomayor home, police say  The Washington Post",
-      "description": "A deputy U.S. marshal wounded an 18yearold who tried to carjack him near the home of Justice Sonia Sotomayor, according to authorities and court documents.",
-      "url": "https://www.washingtonpost.com/dcmdva/2024/07/09/soniasotomayorcarjackingmarshalshooting/",
-      "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/55HTBU2XHRGULCB7OMA3NNMFFQ.jpg&w=1440",
-      "publishedAt": "20240710T04:05:23Z",
-      "content": "A deputy U.S. marshal on a Supreme Court protective detail shot and wounded a D.C. teenager who tried to carjack him Friday near the home of Justice Sonia Sotomayor, according to authorities and cour… [+2084 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "US officials uncover alleged Russian ‘bot farm’  BBC.com",
-      "description": "The justice department says nearly 1,000 social media accounts distributed proRussia stories.",
-      "url": "https://www.bbc.com/news/articles/c4ng24pxkelo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f671/live/5eed3f103e3511efa4b4b74225c12908.jpg",
-      "publishedAt": "20240710T03:19:58Z",
-      "content": "US officials say they have taken action against an AIpowered information operation run from Russia, including nearly 1,000 accounts pretending to be Americans.\r\nThe accounts on X were designed to sp… [+3037 chars]"
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "ESPN News Services",
-      "title": "Rays' Franco charged with sexual abuse in DR  ESPN",
-      "description": "Tampa Bay Rays shortstop Wander Franco was formally charged with sexual abuse and sexual exploitation against a minor in the Dominican Republic on Tuesday.",
-      "url": "https://www.espn.com/mlb/story/_/id/40530027/tampabayrayssswanderfrancochargedsexualabusesexualexploitationminor",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0119%2Fr1279404_1296x729_16%2D9.jpg",
-      "publishedAt": "20240710T02:49:00Z",
-      "content": "Tampa Bay Rays shortstop Wander Franco has been formally charged with sexual abuse and sexual exploitation against a minor in the Dominican Republic.\r\nPuerto Plata District Office Prosecutor Kelmin D… [+1648 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Webb’s SuperEarth Discovery: Potentially Habitable World Just 48 LightYears Away  SciTechDaily",
-      "description": "A team of astronomers has made an exciting discovery about the temperate exoplanet LHS 1140 b: it could be a promising \"superEarth\" covered in ice or water. LHS 1140 b, once thought to be a miniNeptune, is now considered a possible superEarth with a nitrog…",
-      "url": "https://scitechdaily.com/webbssuperearthdiscoverypotentiallyhabitableworldjust48lightyearsaway/",
-      "urlToImage": "https://scitechdaily.com/images/ExoplanetLHS1140b.jpg",
-      "publishedAt": "20240710T02:41:47Z",
-      "content": "Temperate exoplanet LHS 1140 b may be a world completely covered in ice (left) similar to Jupiter’s moon Europa or may be an ice world with a liquid substellar ocean and a cloudy atmosphere (center).… [+9113 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Matias Grez",
-      "title": "Lamine Yamal: Spain beats France to reach Euro 2024 final after historic goal from 16yearold  CNN",
-      "description": "Lamine Yamal made history by becoming the youngest goalscorer in European Championship history as Spain edged past France 21 to reach Sunday’s Euro 2024 final.",
-      "url": "https://www.cnn.com/2024/07/09/sport/spainfranceeuro2024semifinallamineyamalsptintl/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages2160741419restricted.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "20240710T02:14:00Z",
-      "content": "Lamine Yamal made history by becoming the youngest player to score in a mens European Championship as Spain edged past France 21 to reach Sundays Euro 2024 final.\r\nFrance took the lead inside 10 min… [+4650 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Lionel Messi scores, Argentina brushes aside Canada, waltzes into Copa América final  Yahoo Sports",
-      "description": null,
-      "url": "https://sports.yahoo.com/live/lionelmessiscoresargentinabrushesasidecanadawaltzesintocopaamericafinal233805695.html",
-      "urlToImage": null,
-      "publishedAt": "20240710T02:11:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Lisa Respers France",
-      "title": "Gypsy Rose Blanchard is pregnant  CNN",
-      "description": "Gypsy Rose Blanchard, who served eight and a half years for helping to kill her abusive mother, announced Tuesday that she is set to become a mother herself.",
-      "url": "https://www.cnn.com/2024/07/09/entertainment/gypsyroseblanchardpregnant/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages2151048946.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "20240710T02:10:00Z",
-      "content": "Gypsy Rose Blanchard, who served eight and a half years for helping to kill her abusive mother, announced Tuesday that she is set to become a mother herself.\r\nBlanchard shared the news on social medi… [+2427 chars]"
-    },
-    {
-      "source": {
-        "id": "associatedpress",
-        "name": "Associated Press"
-      },
-      "author": "MATTHEW LEE, ELLEN KNICKMEYER, ERIC TUCKER",
-      "title": "Zelenskyy says the world cannot wait until the US election in November to take action to repel Putin  The Associated Press",
-      "description": "Ukrainian President Volodymyr Zelenskyy says the world must not wait for November to drive back Russia’s offensive against his country. Zelenskyy made the remarks Tuesday while attending this week’s summit of NATO leaders in Washington. He said the world was …",
-      "url": "https://apnews.com/article/zelenskyyukrainenatosummitrussiawar7f6a042e323af10e0425239ea5a023c3",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9c86c2c/2147483647/strip/true/crop/5282x2971+0+275/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F50%2F4be48dbb607cd3b0c8827dd7c838%2F044c5079b0724fd2b6fc98704079a0d7",
-      "publishedAt": "20240710T02:09:00Z",
-      "content": "WASHINGTON (AP) Ukrainian President Volodymyr Zelenskyy said Tuesday that decisive action must be taken before the U.S. presidential election in November to repel Russias offensive against his countr… [+6464 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "19700101T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "19700101T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Sohee Kim, Shinhye Kang",
-      "title": "Samsung Workers Plan to Strike ‘Indefinitely’ in Risk to Global Tech  Bloomberg",
-      "description": "Samsung Electronics Co.’s largest labor union of more than 30,000 workers declared an indefinite strike, a surprise move that raises the risk of production disruptions at the world’s largest memory chipmaker.",
-      "url": "https://www.bloomberg.com/news/articles/20240710/samsunglaborunionsayspreparedtostrikeindefinitely",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivOqkomYT5J8/v0/1200x800.jpg",
-      "publishedAt": "20240710T00:58:00Z",
-      "content": "Samsung Electronics Co.s largest labor union of more than 30,000 workers declared an indefinite strike, a surprise move that raises the risk of production disruptions at the worlds largest memory chi… [+283 chars]"
-    },
-    {
-      "source": {
-        "id": "abcnews",
-        "name": "ABC News"
-      },
-      "author": "TY O'NEIL Associated Press, ANITA SNOW Associated Press",
-      "title": "Tourists still flock to Death Valley amid searing US heat wave blamed for several deaths  ABC News",
-      "description": "Hundreds of Europeans touring the American West and adventurers from around the U.S. are still being drawn to Death Valley National Park",
-      "url": "https://abcnews.go.com/US/wireStory/touristsflockdeathvalleyamidsearingusheat111766175",
-      "urlToImage": "https://i.abcnewsfe.com/a/9d98287678824d81a1f71b7bd001a38e/wirestory_e1b875ae9d6e72afd179061e34153f8e_16x9.jpg?w=1600",
-      "publishedAt": "20240710T00:55:04Z",
-      "content": "DEATH VALLEY, Calif.  Hundreds of Europeans touring the American West and adventurers from around the U.S. are still being drawn to Death Valley National Park, even though the desolate region known… [+6096 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters",
-      "title": "Ukraine will stop Putin, Biden tells NATO in forceful speech  Reuters",
-      "description": null,
-      "url": "https://www.reuters.com/world/us/bidennatosummitchanceshowvotersallieshecanstilllead20240709/",
-      "urlToImage": null,
-      "publishedAt": "20240710T00:42:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "associatedpress",
-        "name": "Associated Press"
-      },
-      "author": "SEUNG MIN KIM",
-      "title": "President Joe Biden saw neurologist at White House for Jan. 17 exam, press secretary says  The Associated Press",
-      "description": "President Joe Biden saw a neurologist at the White House on Jan. 17 for a neurologic exam, the results of which were later reported as part of his annual physical more than a month later, the White House said on Tuesday. The confirmation came after the White …",
-      "url": "https://apnews.com/article/presidentjoebidenhealthneurologyphysicalda9e9af344898a74ef6227bf157a1be0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ca8c25f/2147483647/strip/true/crop/5794x3259+0+301/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2F9b%2F27892f815c5b94c1e855fdca0ac7%2F9bd2c59c18d84876a1c7483277a92963",
-      "publishedAt": "20240710T00:27:00Z",
-      "content": "WASHINGTON (AP) President Joe Biden saw a neurologist at the White House on Jan. 17 for a neurological exam, the results of which were later reported as part of his annual physical more than a month … [+4121 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Elizabeth Wolfe, Sydney Bishop",
-      "title": "Beryl leaves millions of Texans without power as dangerous heat descends on the region  CNN",
-      "description": "Restoring power to millions of Texans slammed by the deadly and destructive storm Beryl could take days or even weeks, posing a dangerous scenario for residents who will not have air conditioning as sweltering heat settles over the state.",
-      "url": "https://www.cnn.com/2024/07/09/weather/berylstormtexaspoweroutagesheat/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages2161220114.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "20240710T00:26:00Z",
-      "content": "Restoring power to millions of Texans slammed by the deadly and destructive storm Beryl could take days or even weeks, posing a dangerous scenario for residents without air conditioning as tripledig… [+10162 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "BBC Verify looks at evidence linking Russia to Kyiv hospital strike  BBC.com",
-      "description": "Watch BBC Verify's visual analysis of the strike which killed two adults and injured 300.",
-      "url": "https://www.bbc.com/news/videos/cj7dzr92m17o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8474/live/3d1c4cd03e2d11ef9e1c3b4a473456a6.jpg",
-      "publishedAt": "20240710T00:19:58Z",
-      "content": "On Monday Ukraine's largest children's hospital was hit by a missile, killing two adults and injuring 300 people, including children. \r\nRussia claimed the blast was caused by a misfiring Ukrainian ai… [+183 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Ariane6 first launch: Europe's rocket blasts off for first time  BBC.com",
-      "description": "After a successful launch, the upper stage of the rocket goes on to experience an anomaly.",
-      "url": "https://www.bbc.com/news/articles/c19km33k1mpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0dbd/live/6f5601e03e2e11efa4b4b74225c12908.jpg",
-      "publishedAt": "20240710T00:00:00Z",
-      "content": "By Jonathan Amos, @BBCAmos, Science correspondent\r\nEurope's big new rocket, Ariane6, has blasted off on its maiden flight.\r\nThe vehicle set off from a launchpad inFrench Guiana about 16:00 local tim… [+5955 chars]"
-    },
-    {
-      "source": {
-        "id": "associatedpress",
-        "name": "Associated Press"
-      },
-      "author": "LISA MASCARO, MARY CLARE JALONICK, FARNOUSH AMIRI",
-      "title": "Biden's support on Capitol Hill grimly uncertain. A seventh Democrat says he should drop out  The Associated Press",
-      "description": "The mood on Capitol Hill has turned grim as Democrats wrestled over President Joe Biden’s reelection. A seventh House Democrat has said publicly that Biden should drop out. It was an extraordinary question before Democrats on Capitol Hill as they met privatel…",
-      "url": "https://apnews.com/article/bidenelectionhousedemocratssenatetrumpa8926189431d70686f2f1abdc5540fa8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f2a5be5/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2F48%2F3db1cacbd61d43bced22e231170a%2F8b08330822434e8e83a0d44402aed2cd",
-      "publishedAt": "20240709T23:43:00Z",
-      "content": "WASHINGTON (AP) The mood on Capitol Hill turned grimly uncertain Tuesday as Democrats wrestled over President Joe Bidens reelection and the extraordinary question before them whether to stand behind … [+8189 chars]"
-    },
-    {
-      "source": {
-        "id": "abcnews",
-        "name": "ABC News"
-      },
-      "author": "Leah Sarnoff",
-      "title": "Scientists discover Jupiterlike exoplanet that smells of rotten eggs  ABC News",
-      "description": "Exoplanet HD 189733 b contains hydrogen sulfide, according to new research.",
-      "url": "https://abcnews.go.com/International/scientistsdiscoverjupiterexoplanetsmellsrotteneggs/story?id=111783965",
-      "urlToImage": "https://i.abcnewsfe.com/a/f3765768171b4934b6af43c669d899e1/hotjupiter01htjt240709_1720562775270_hpMain_16x9.jpg?w=1600",
-      "publishedAt": "20240709T23:33:02Z",
-      "content": "Scientists made an exciting  and pungent  announcement about a nearby exoplanet this week, finding that a planetary body with a likeness to Jupiter smells of rotten eggs.\r\nAnalyzing data gathered… [+1726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Dallas Morning News"
-      },
-      "author": "Sasha Richie",
-      "title": "Mike Gundy speaks on Ollie Gordon II's DUI arrest at Big 12 media days  The Dallas Morning News",
-      "description": "Speaking with ESPN during Big 12 media days Tuesday, Gundy said the best thing for Oklahoma State after Ollie Gordon II’s arrest was for Gordon to play.",
-      "url": "https://www.dallasnews.com/sports/collegesports/2024/07/09/mikegundyolliegordoniiduiarrestoklahomastateiveprobablydonethat1000times/",
-      "urlToImage": "https://dmndallasnewsprod.cdn.arcpublishing.com/resizer/v2/QYGAVPQ4GGTL3IXDQISBOWEF6U.jpg?auth=e953c91c8dbc7866fdd96e05783581ff28ecfd435f3b09edb6552cfae1e9f428&height=467&width=830&smart=true&quality=40",
-      "publishedAt": "20240709T23:10:57Z",
-      "content": "Oklahoma State star running back Ollie Gordon II will not miss time after being arrested under suspicion of DUI on June 30, head coach Mike Gundy said Tuesday. \r\nHes going to play, Gundy told ESPN du… [+2820 chars]"
-    }
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "businessinsider.com",
+  "title": "Californians are buying fewer Teslas. That could be a bad sign for Elon Musk",
+  "description": "Tesla registrations fell in California.\nNewsday LLC/Getty Images\nTesla's new car registrations in California dropped 24% in the second quarter.\nGovernor Gavin Newsom said Tesla is finally starting to see competition from other companies in California.\nTesla's…",
+  "url": "https://biztoc.com/x/ab7d423c13aba440",
+  "urlToImage": "https://biztoc.com/cdn/ab7d423c13aba440_s.webp",
+  "publishedAt": "20240811T09:03:13Z",
+  "content": "Tesla registrations fell in California.Newsday LLC/Getty ImagesTesla's new car registrations in California dropped 24% in the second quarter.Governor Gavin Newsom said Tesla is finally starting to se… [+141 chars]"
+  },
+  {
+  "source": {
+  "id": "businessinsider",
+  "name": "Business Insider"
+  },
+  "author": "Grace Kay",
+  "title": "Californians are buying fewer Teslas. That could be a bad sign for Elon Musk.",
+  "description": "Tesla's sliding sales in California could be a symptom of wider problems for Elon Musk and his EV maker, experts say.",
+  "url": "https://www.businessinsider.com/californiansbuyingfewerteslasbadsignelonmuskevs20248",
+  "urlToImage": "https://i.insider.com/66b4e113955b01c3294ce48e?width=1200&format=jpeg",
+  "publishedAt": "20240811T08:51:01Z",
+  "content": "Tesla registrations fell in California.Newsday LLC/Getty Images\r\n<ul><li>Tesla's new car registrations in California dropped 24% in the second quarter.</li><li>Governor Gavin Newsom said Tesla is fin… [+4150 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Forbes"
+  },
+  "author": "Brooke Crothers, Contributor, \n Brooke Crothers, Contributor\n https://www.forbes.com/sites/brookecrothers/",
+  "title": "GM’s Gen 2 Super Cruise Is A Tamer Alternative To Tesla Full Self Driving",
+  "description": "General Motors’ second generation of its driver assist technology is more ambitious but stops short of Tesla Full Self Driving or FSD.",
+  "url": "https://www.forbes.com/sites/brookecrothers/2024/08/11/gmsgen2supercruiseisatameralternativetoteslafullselfdriving/",
+  "urlToImage": "https://imageio.forbes.com/specialsimages/imageserve/66b83a66a8d752af08728088/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+  "publishedAt": "20240811T08:44:06Z",
+  "content": "A Cadillac Lyriq car is seen during the 19th Shanghai International Automobile Industry Exhibition ... [+] in Shanghai on April 20, 2021 (Photo by Hector RETAMAL / AFP) (Photo by HECTOR RETAMAL/AFP v… [+4553 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Securityaffairs.com"
+  },
+  "author": "Pierluigi Paganini",
+  "title": "SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 6",
+  "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Surge in Magniber ransomware attacks impact home users worldwide BlankBot – a new Android banking trojan with screen recordi…",
+  "url": "https://securityaffairs.com/166890/malware/securityaffairsmalwarenewsletterround6.html",
+  "urlToImage": "https://securityaffairs.com/wpcontent/uploads/2024/07/SecurityAffairsmalwarenewsletter2.png",
+  "publishedAt": "20240811T08:28:03Z",
+  "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 6\r\n | Security Affairs newsletter Round 484 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | ADT disclosed a data breach that impacted more than 30,000 custom… [+90744 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Securityaffairs.com"
+  },
+  "author": "Pierluigi Paganini",
+  "title": "Security Affairs newsletter Round 484 by Pierluigi Paganini – INTERNATIONAL EDITION",
+  "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Is the INC ran…",
+  "url": "https://securityaffairs.com/166884/breakingnews/securityaffairsnewsletterround484bypierluigipaganiniinternationaledition.html",
+  "urlToImage": "https://securityaffairs.com/wpcontent/uploads/2015/03/newsletter.png",
+  "publishedAt": "20240811T08:18:31Z",
+  "content": "Security Affairs newsletter Round 484 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | ADT disclosed a data breach that impacted more than 30,000 customers\r\n | Is the INC ransomware gang behind the at… [+90696 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Securityaffairs.com"
+  },
+  "author": "Pierluigi Paganini",
+  "title": "ADT disclosed a data breach that impacted more than 30,000 customers",
+  "description": "Physical security firm ADT disclosed a data breach, threat actors stole information from 30,000 customers and leaked it. ADT is a provider of alarm and physical security systems, it employs more than 13,000 professionals in over 150 locations throughout the U…",
+  "url": "https://securityaffairs.com/166857/cybercrime/adtdisclosedadatabreach.html",
+  "urlToImage": "https://securityaffairs.com/wpcontent/uploads/2024/08/image8.png",
+  "publishedAt": "20240811T07:08:07Z",
+  "content": "ADT disclosed a data breach that impacted more than 30,000 customers\r\n | Is the INC ransomware gang behind the attack on McLaren hospitals?\r\n | Crooks took control of a cow milking robot causing the … [+90610 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "New Zealand Herald"
+  },
+  "author": null,
+  "title": "Multinationals sound alarm over weak demand in China",
+  "description": "Financial Times: The appetite for foreign brands has weakened.",
+  "url": "https://www.nzherald.co.nz/business/multinationalssoundalarmoverweakdemandinchina/FV3F3TOQJNFV3AXTJKK32GGB3A/",
+  "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NLT76IAILJEOPGZTHVYCXTGGZ4.jpg?auth=2d12672c2101b7cc6b16d643750dd4217c042b5795de774999d48b6f6decb4b3&width=1200&height=675&quality=70&smart=true",
+  "publishedAt": "20240811T06:30:37Z",
+  "content": "Chinas heavily indebted real estate industry has been in a prolonged slowdown since late 2021, with house prices falling more rapidly in recent months. Despite the relaxation of strict Covid19 contr… [+4311 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Autocar"
+  },
+  "author": null,
+  "title": "Long live the quadricycle: the Renault Twizy is back",
+  "description": "Mobilize Duo and a cargo variant called the Bento are set to arrive next year\n\n\nWith the new Mobilize Duo around the corner, is there still a market for tiny EVs in the UK?\n\nI’m pleased to see the Renault Twizy replacement will arrive in the UK, and I’m not a…",
+  "url": "https://www.autocar.co.uk/opinion/newcars/longlivequadricyclerenaulttwizyback",
+  "urlToImage": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/carreviews/firstdrives/legacy/renraultmobilizepriorcolumn.jpg",
+  "publishedAt": "20240811T06:00:45Z",
+  "content": "Im pleased to see the Renault Twizy replacement will arrive in the UK, and Im not a little surprised, given I didnt think the previous one set the world alight when it was here the first time around.… [+2490 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "ETF Daily News"
+  },
+  "author": "MarketBeat News",
+  "title": "Tesla (NASDAQ:TSLA) Stock Price Down 1.7% After Analyst Downgrade",
+  "description": "Tesla, Inc. (NASDAQ:TSLA – Get Free Report)’s share price fell 1.7% during midday trading on Friday after Royal Bank of Canada lowered their price target on the stock from $227.00 to $224.00. Royal Bank of Canada currently has an outperform rating on the sto…",
+  "url": "https://www.etfdailynews.com/2024/08/11/teslanasdaqtslastockpricedown17afteranalystdowngrade/",
+  "urlToImage": "https://www.americanbankingnews.com/wpcontent/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/teslainclogo1200x675.png?v=20221020135629&w=240&h=240&zc=2",
+  "publishedAt": "20240811T05:52:42Z",
+  "content": "Tesla, Inc. (NASDAQ:TSLA – Get Free Report)’s share price fell 1.7% during midday trading on Friday after Royal Bank of Canada lowered their price target on the stock from $227.00 to $224.00. Royal … [+6162 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "New Zealand Herald"
+  },
+  "author": null,
+  "title": "Why I no longer crave a Tesla – Pilita Clark",
+  "description": "Financial Times: Elon Musk's antics turn off the most obvious customers for his cars.",
+  "url": "https://www.nzherald.co.nz/business/whyinolongercraveateslapilitaclark/QXYDWLZPRRGJPJAAU7WVC3EMUI/",
+  "urlToImage": "https://www.nzherald.co.nz/resizer/v2/M2SKLJIPYBCUPEDDMPSY7LKX64.jpg?auth=df435baeb220ab387061c9bcc9b16617fbd9bd6ae232a26944e7ac620e41164c&width=1200&height=675&quality=70&smart=true",
+  "publishedAt": "20240811T05:39:01Z",
+  "content": "Musk was not a household name then. But being the Financial Times environment correspondent at the time, I knew a bit about him and the red Tesla he arrived in, which I had read could go from zero to… [+4027 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "ft.com",
+  "title": "Why I no longer crave a Tesla",
+  "description": "Elon Musk’s antics are turning off the most obvious customers for his cars",
+  "url": "https://biztoc.com/x/616a8d3bd854a9f7",
+  "urlToImage": "https://biztoc.com/cdn/616a8d3bd854a9f7_s.webp",
+  "publishedAt": "20240811T05:01:58Z",
+  "content": "Elon Musks antics are turning off the most obvious customers for his cars\r\nThis story appeared on ft.com, 20240811."
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Autoblog"
+  },
+  "author": "Associated Press",
+  "title": "China's domestic auto sales fall in July, its exports jump about 20%",
+  "description": "Filed under:\n By the Numbers,Earnings/Financials,Government/Legal,Electric,Hybrid\n Continue reading China's domestic auto sales fall in July, its exports jump about 20%\nChina's domestic auto sales fall in July, its exports jump about 20% originally appeared o…",
+  "url": "https://www.autoblog.com/2024/08/11/chinacarsalesdroplocalincreaseoverseas/",
+  "urlToImage": "https://edgecastimg.yahoo.net/mysterio/api/A81C35382C68A1630B21C4A9F3AEA9B923EA402518C1D0BA8CE3DAB11F45A804/autoblog/resizefill_w1200_h675;quality_85;format_webp;cc_31536000;/https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x675/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/05/28115243/bydseal06.jpg",
+  "publishedAt": "20240811T05:00:00Z",
+  "content": "BANGKOK Auto sales in China faltered in July, falling 5% from a year earlier, the China Association of Automobile Manufacturers said Friday, although exports jumped about 20% as makers of electric ve… [+3040 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Techreport.com"
+  },
+  "author": "Rida Fatima",
+  "title": "Palantir Shares Surge 11% After AI Partnership Announcement with Microsoft for US Defense",
+  "description": "Palantir Technologies Inc. revealed a new partnership with Microsoft to provide AI services to U.S. Intelligence agencies.  In its statement on August 8, Palantir divulged the plans to integrate with...\nThe post Palantir Shares Surge 11% After AI Partnership …",
+  "url": "https://techreport.com/news/palantirsharessurge11afteraipartnershipannouncementwithmicrosoftforusdefense/",
+  "urlToImage": "https://techreport.com/wpcontent/uploads/2024/08/Screenshot20240811at7.06.05 AM.png",
+  "publishedAt": "20240811T02:30:46Z",
+  "content": "Palantir Technologies Inc. revealed a new partnership with Microsoft to provide AI services to U.S. Intelligence agencies. \r\nIn its statement on August 8, Palantir divulged the plans to integrate wit… [+2537 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Bitcoinist"
+  },
+  "author": "Scott Matherson",
+  "title": "Crypto Analyst Predicts Dogecoin Price Will Hit $1 If This Happens",
+  "description": "A crypto analyst has predicted a major bullish outlook for popular doggy themed meme coin, Dogecoin (DOGE). The analyst has shared compelling reasons why he believes Dogecoin could surge as high as $1 soon.   Dogecoin’s Bullish Path To $1 In an X (formerly Tw…",
+  "url": "https://bitcoinist.com/cryptoanalystpredictsdogecoinpricewillhit1ifthishappens/",
+  "urlToImage": "https://bitcoinist.com/wpcontent/uploads/2024/08/a_ba7385.jpg",
+  "publishedAt": "20240811T01:00:36Z",
+  "content": "A crypto analyst has predicted a major bullish outlook for popular doggy themed meme coin, Dogecoin (DOGE). The analyst has shared compelling reasons why he believes Dogecoin could surge as high as $… [+3074 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "wolfstreet.com",
+  "title": "Kind of a Funny Week for Stocks, Lots of Drama, Little Change: But Tesla & Nvidia Ended Deeper in the Hole",
+  "description": "Our pantheon of Imploded Stocks is weighing down the Russell 2000 index.\nBy Wolf Richter for WOLF STREET.\nThe S&P 500 ended where it had started out, and if you were away from the internet for those five days, you would have missed all the drama that had star…",
+  "url": "https://biztoc.com/x/57471a662f8d0e6c",
+  "urlToImage": "https://biztoc.com/cdn/57471a662f8d0e6c_s.webp",
+  "publishedAt": "20240810T23:19:49Z",
+  "content": "Our pantheon of Imploded Stocks is weighing down the Russell 2000 index.By Wolf Richter for WOLF STREET.The S&amp;P 500 ended where it had started out, and if you were away from the internet for thos… [+136 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "SoyaCincau.com"
+  },
+  "author": "Chief Chapree",
+  "title": "Here are the MITI requirements that Tesla Malaysia has fulfilled so far",
+  "description": "Tesla received a lot of flak from Malaysians this week after the company reportedly cancelled its plan to build manufacturing facilities in Southeast Asia. The Minister of Investment, Trade, and Industry, Tengku Zafrul Aziz has since published a brief video t…",
+  "url": "https://soyacincau.com/2024/08/11/teslamalaysiamitirequirementscheckaug24/",
+  "urlToImage": "https://soyacincau.com/wpcontent/uploads/2023/08/teslamodelypavkl01.jpg",
+  "publishedAt": "20240810T22:06:54Z",
+  "content": "Tesla received a lot of flak from Malaysians this week after the company reportedly cancelled its plan to build manufacturing facilities in Southeast Asia. The Minister of Investment, Trade, and Indu… [+4927 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CleanTechnica"
+  },
+  "author": "Paul Fosse",
+  "title": "China & US Auto Market — Chinese Auto Disrupting Everyone Else",
+  "description": "In this article, I’m analyzing at a high level what is happening to the auto industry across propulsion types. I’ll break it down by region and also discuss individual companies. For the purposes of this article, I assume that level 5 selfdriving and driverl…",
+  "url": "https://cleantechnica.com/2024/08/10/chinausautomarketchineseautodisruptingeveryoneelse/",
+  "urlToImage": "https://cleantechnica.com/wpcontent/uploads/2023/12/BYDSealsande1718303444950.jpeg",
+  "publishedAt": "20240810T21:38:37Z",
+  "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nIn this article, I’m analyzing at a high level what is happening to the auto industry across propulsion types… [+9227 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Steven Symes",
+  "title": "Road Rage Doesn’t End Well For Ford Escape",
+  "description": "Chances are where you live you’ve noticed road rage is an increasing problem. Most people believe where they are is one of the worst, if not the worst place ...",
+  "url": "https://autos.yahoo.com/roadragedoesntend190000389.html",
+  "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6tvxQH16Ne52hL1.2FMYfg/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU/https://media.zenfs.com/en/the_auto_wire_articles_747/6778cff1c1824980c7873132830f9e0d",
+  "publishedAt": "20240810T21:30:00Z",
+  "content": "Read the full story on The Auto Wire\r\nRoad Rage Doesnt End Well For Ford Escape\r\nChances are where you live youve noticed road rage is an increasing problem. Most people believe where they are is one… [+1663 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "ZyCrypto"
+  },
+  "author": "Newton Gitonga",
+  "title": "Ripple’s XRP Buy Volume Leaps Over 200% PostSEC Victory — Is $3.20 XRP Price Coming?",
+  "description": "Analysts also reported a 23% increase in the XRP market cap, with wallets holding 1 million to 10 million XRP now holding a record 7.06 billion coins.",
+  "url": "https://zycrypto.com/ripplesxrpbuyvolumeleapsover200postsecvictoryis320xrppricecoming/",
+  "urlToImage": "https://zycrypto.com/wpcontent/uploads/2024/04/RipplesXRPPriceto20—DevsUnveilSuperBullishProposalThatCouldMassivelyAdvanceXRPL.jpeg",
+  "publishedAt": "20240810T21:12:38Z",
+  "content": "In a notable development, XRPs buy volume has surged by more than 235% in the past 24 hours. During the same period, XRPs price saw a significant rise, climbing by over 18% to $0.64 by late Wednesday… [+2817 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Legalinsurrection.com"
+  },
+  "author": "Leslie Eastman",
+  "title": "New Issue for EV Owners: ‘Charger Hogs’",
+  "description": "A study of 20,000 EV charging stations shows the experience is still a massive bummer\nThe post New Issue for EV Owners: ‘Charger Hogs’ first appeared on Le·gal In·sur·rec·tion.",
+  "url": "https://legalinsurrection.com/2024/08/newissueforevownerschargerhogs/",
+  "urlToImage": "https://legalinsurrection.com/wpcontent/uploads/2021/05/LI54ElectricCar.png",
+  "publishedAt": "20240810T21:00:22Z",
+  "content": "In our continuing series of all the unintended consequences of forcing Americans to switch to electric vehicles (EVs) based on climate crisis pseudoscience, a new problem has been detected: Charger H… [+4122 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Drive.com.au"
+  },
+  "author": "Ethan Cardinal",
+  "title": "Xpeng wants to be a household electric car name in Australia",
+  "description": "Ahead of its imminent arrival in Australia in the latter half of 2024, Chinese manufacturer...",
+  "url": "https://www.drive.com.au/news/xpengwantstobeahouseholdelectriccarnameinaustralia/",
+  "urlToImage": null,
+  "publishedAt": "20240810T21:00:00Z",
+  "content": "According to VFACTS data in the first half of 2024, Tesla is the bestselling EV brand with 23,116 sales, followed by BYD (9066), BMW (3740), MG (3411), and Hyundai (1674)."
+  },
+  {
+  "source": {
+  "id": "fortune",
+  "name": "Fortune"
+  },
+  "author": "Fortune Editors",
+  "title": "Zum founder Ritu Narayan explains why she wants to disrupt student transport: ‘As a parent, it is frustrating when you don’t know where the bus is’",
+  "description": "Zum uses AI to remap school bus routes in realtime and allow its electric school buses to send power back to the grid.",
+  "url": "https://fortune.com/asia/2024/08/10/zumfounderritunarayanwantsdisruptschoolbusesbrainstormaisingapore/",
+  "urlToImage": "https://fortune.com/imgassets/wpcontent/uploads/2024/08/53906974461_b8c4c05c46_oe1723019659375.jpg?resize=1200,600",
+  "publishedAt": "20240810T21:00:00Z",
+  "content": "The yellow school bus is an iconic piece of Americana, trucking kids toandfrom school for decades. To Ritu Narayan, founder and CEO of Zum, a transportation startup, it looked like an opportunity f… [+8227 chars]"
+  },
+  {
+  "source": {
+  "id": "theverge",
+  "name": "The Verge"
+  },
+  "author": "Wes Davis",
+  "title": "The cheapest Cybertruck is now almost $100,000",
+  "description": "Tesla has removed the RWD Cybertruck from its order page and raised prices for the AWD and Cyberbeast trims by $20,000 each, making the cheapest model now $99,990.",
+  "url": "https://www.theverge.com/2024/8/10/24217545/cybertruckpriceincreaserwdmodelgone",
+  "urlToImage": "https://cdn.voxcdn.com/thumbor/mdVNRg92dVywRMk7hOO22m2X5OQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.voxcdn.com/uploads/chorus_asset/file/25120751/236938_Tesla_showroom_Cyber_Truck_AKrales_0177.jpg",
+  "publishedAt": "20240810T20:56:36Z",
+  "content": "The cheapest Cybertruck is now almost $100,000\r\nThe cheapest Cybertruck is now almost $100,000\r\n / The company stopped selling its base Cybertruck and raised prices for the rest.\r\nByWes Davis, a week… [+1353 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "[Removed]"
+  },
+  "author": null,
+  "title": "[Removed]",
+  "description": "[Removed]",
+  "url": "https://removed.com",
+  "urlToImage": null,
+  "publishedAt": "19700101T00:00:00Z",
+  "content": "[Removed]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Forbes"
+  },
+  "author": "Brooke Crothers, Contributor, \n Brooke Crothers, Contributor\n https://www.forbes.com/sites/brookecrothers/",
+  "title": "Tesla Cybertruck ‘Available Now’ — But At A Price",
+  "description": "The wait time for Tesla’s pickup has changed overnight with Available Now” headlining the Cybertruck order page as of this weekend.",
+  "url": "https://www.forbes.com/sites/brookecrothers/2024/08/10/teslacybertruckavailablenowbutataprice/",
+  "urlToImage": "https://imageio.forbes.com/specialsimages/imageserve/66b7afee44c9674978f95dba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+  "publishedAt": "20240810T20:24:10Z",
+  "content": "Visitors are viewing a Tesla Cybertruck on display in Shanghai, China, on January 31, 2024. (Photo ... [+] by Costfoto/NurPhoto via Getty Images)\r\nNurPhoto via Getty Images\r\nYou can actually order a … [+2622 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "teslarati.com",
+  "title": "Tesla faces lawsuit from family of worker who died at Giga Texas",
+  "description": "Tesla is facing a lawsuit from the family of a person who passed away at Gigafactory Texas last week, with the suit alleging that the worker’s cardiac event had been the result of electrocution.\nAfter it was announced that the Occupational Safety and Health A…",
+  "url": "https://biztoc.com/x/f928238da22ca727",
+  "urlToImage": "https://biztoc.com/cdn/f928238da22ca727_s.webp",
+  "publishedAt": "20240810T20:23:53Z",
+  "content": "Tesla is facing a lawsuit from the family of a person who passed away at Gigafactory Texas last week, with the suit alleging that the workers cardiac event had been the result of electrocution.After … [+132 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "techcrunch.com",
+  "title": "Tesla’s Dojo, a timeline",
+  "description": "Elon Musk doesn’t want Tesla to be just an automaker. He wants Tesla to be an AI company, one that’s figured out how to make cars drive themselves.\nCrucial to that mission is Dojo, Tesla’s custombuilt supercomputer designed to train its Full SelfDriving (FS…",
+  "url": "https://biztoc.com/x/bf6bf1433dbda63a",
+  "urlToImage": "https://biztoc.com/cdn/800/og.png",
+  "publishedAt": "20240810T19:06:47Z",
+  "content": "Elon Musk doesnt want Tesla to be just an automaker. He wants Tesla to be an AI company, one thats figured out how to make cars drive themselves.Crucial to that mission is Dojo, Teslas custombuilt s… [+135 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Rebecca Bellan",
+  "title": "Tesla’s Dojo, a timeline | TechCrunch",
+  "description": "Elon Musk doesn’t want Tesla to be just an automaker. He wants Tesla to be an AI company, one that’s figured out how to make cars drive themselves.",
+  "url": "https://techcrunch.com/2024/08/10/teslasdojoatimeline/",
+  "urlToImage": "https://techcrunch.com/wpcontent/uploads/2024/08/tesladojov3.jpg?resize=1200,675",
+  "publishedAt": "20240810T19:01:39Z",
+  "content": "Elon Musk doesnt want Tesla to be just an automaker. He wants Tesla to be an AI company, one thats figured out how to make cars drive themselves. \r\nCrucial to that mission is Dojo, Teslas custombuil… [+8466 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Erickimphotography.com"
+  },
+  "author": "ERIC KIM",
+  "title": "How to Become a Millionaire Blogger",
+  "description": "Some honest thoughts: 1. Insane Spartan frugality ￼￼ This is what people do not understand or get; technically, if you want to become a millionaire, the goal is actually to never spend any money. Just like Kanye said, “White people make money don’t spend it ￼…",
+  "url": "https://erickimphotography.com/blog/2024/08/10/howtobecomeamillionaireblogger/",
+  "urlToImage": null,
+  "publishedAt": "20240810T18:46:21Z",
+  "content": "Some honest thoughts:\r\nThis is what people do not understand or get; technically, if you want to become a millionaire, the goal is actually to never spend any money. Just like Kanye said, White peopl… [+4381 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Securityaffairs.com"
+  },
+  "author": "Pierluigi Paganini",
+  "title": "Is the INC ransomware gang behind the attack on McLaren hospitals?",
+  "description": "A INC Ransom ransomware attack this week disrupted IT and phone systems at McLaren Health Care hospitals. On Tuesday, an INC Ransom ransomware attack hit the McLaren Health Care hospitals and disrupted their IT and phone systems. The organizations did not dis…",
+  "url": "https://securityaffairs.com/166851/cybercrime/mclarenhospitalsattack.html",
+  "urlToImage": "https://securityaffairs.com/wpcontent/uploads/2019/06/ransomware.jpg",
+  "publishedAt": "20240810T18:04:23Z",
+  "content": "Is the INC ransomware gang behind the attack on McLaren hospitals?\r\n | Crooks took control of a cow milking robot causing the death of a cow\r\n | Sonos smart speakers flaw allowed to eavesdrop on user… [+90537 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "247wallst.com",
+  "title": "These EV Stocks Could Be Doomed",
+  "description": "In the first quarter of 2024, most EV stocks saw double digit declines, despite the S&P 500 rising 10%. The shift appears to be directly tied to slowing demand of EVs in U.S and China, impacting larger market players like Tesla (NASDAQ:TSLA) as well as small …",
+  "url": "https://biztoc.com/x/b1de5911879fe1c1",
+  "urlToImage": "https://biztoc.com/cdn/800/og.png",
+  "publishedAt": "20240810T18:00:51Z",
+  "content": "In the first quarter of 2024, most EV stocks saw double digit declines, despite the S&amp;P 500 rising 10%. The shift appears to be directly tied to slowing demand of EVs in U.S and China, impacting … [+133 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "New Atlas"
+  },
+  "author": "Aaron Turpen",
+  "title": "Inside Moment Motors, where superb classics become electric dailies",
+  "description": "Standing in the pickup zone at the Austin airport, I felt the immense humidity of that part of Texas. As a man of the High Plains, much further north on the map, I felt the powerful heat that holds that rainsoaked part of the Lone Star State during the summe…",
+  "url": "https://newatlas.com/automotive/momentmotorsclassiccarselectricvehicleretromodconversion/",
+  "urlToImage": "https://assets.newatlas.com/dims4/default/b670f74/2147483647/strip/true/crop/9504x4990+0+499/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlasbrightspot.s3.amazonaws.com%2F60%2F8f%2F5105e5414347a2a265c632b81f51%2Fmercedesbenzslafterconversionmomentmotorsphoto.jpg&na.image_optimisation=0",
+  "publishedAt": "20240810T18:00:00Z",
+  "content": "Standing in the pickup zone at the Austin airport, I felt the immense humidity of that part of Texas. As a man of the High Plains, much further north on the map, I felt the powerful heat that holds t… [+17215 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Dealcatcher.com"
+  },
+  "author": null,
+  "title": "Amazon  Electric Soft Close System for Tesla Front Trunk $96.10",
+  "description": "Combine 2 discounts to save at Amazon! Get this Electric Soft Close System for Tesla Front Trunk for just $96.10 after clippable coupon and promo code. Free shipping!<br /><br /><strong>More Ways to Save at Amazon:</strong><ul><li>Don't already have Amazon Pr…",
+  "url": "https://www.dealcatcher.com/?offer=998276454",
+  "urlToImage": "https://www.dealcatcher.com/__ogimage__/image/og.png?_query=%7B%22offer%22:%22998276454%22,%22utm_source%22:%22rss%22%7D",
+  "publishedAt": "20240810T17:21:27Z",
+  "content": "Score deals on your favorite skincare, personal care, and wellness products from top retailers including Walgreens, RiteAid, Walmart, Target &amp; More. From everyday essentials to vitamins &amp; sp… [+74 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Kvraudio.com"
+  },
+  "author": null,
+  "title": "It's time to play \"how's your weather?\" (in: Off Topic)",
+  "description": "By: harryupbabble 10 Aug 16:27 it finally rained a few days a go quite a lot too yay i was worried that it won't rain again 'til next spring i want to resign as caretaker of the lawn and shoveller of the snow but i get rent reduction for doing those things th…",
+  "url": "https://www.kvraudio.com/forum/viewtopic.php?p=8948332&utm_source=my_latest_posts&utm_medium=rssfeed&utm_content=8948332#p8948332",
+  "urlToImage": "https://static.kvraudio.com/i/b/kvraudio300x300greyeeeeee.png",
+  "publishedAt": "20240810T16:27:27Z",
+  "content": "Pro Audio Forum  VST, AU, AAX Plugin and Audio Software Discussion\r\nSkip to content"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Superpunch.net"
+  },
+  "author": "noreply@blogger.com (John)",
+  "title": "Today's news and jokes",
+  "description": "that time Scottie Pippen got elbowed and  to the surprise of literally no one, including the announcer  the ref dragged his body off the court to keep the action going ... the 1980s were an adventure pic.twitter.com/tWENfPA0Bt\r\n— Nick Baumgardner (@nickba…",
+  "url": "https://www.superpunch.net/2024/08/todaysnewsandjokes_0428270194.html",
+  "urlToImage": null,
+  "publishedAt": "20240810T16:00:00Z",
+  "content": "that time Scottie Pippen got elbowed and  to the surprise of literally no one, including the announcer  the ref dragged his body off the court to keep the action going ... the 1980s were an adven… [+5910 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Erickimphotography.com"
+  },
+  "author": "ERIC KIM",
+  "title": "You gotta keep it moving! ￼",
+  "description": "How to become a millionaire blogger? 1. Insane Spartan frugality ￼￼ This is what people do not understand or get; technically, if you want to become a millionaire, the goal is actually to never spend any money. Just like Kanye said, “White people make money d…",
+  "url": "https://erickimphotography.com/blog/2024/08/10/yougottakeepitmoving5/",
+  "urlToImage": null,
+  "publishedAt": "20240810T15:49:26Z",
+  "content": "How to become a millionaire blogger?\r\nThis is what people do not understand or get; technically, if you want to become a millionaire, the goal is actually to never spend any money. Just like Kanye sa… [+3516 chars]"
+  },
+  {
+  "source": {
+  "id": "fortune",
+  "name": "Fortune"
+  },
+  "author": "Esha Dey, Bloomberg",
+  "title": "Stock market rotation gets more fuel as nontech giants see earnings return to growth",
+  "description": "Earnings for S&P 500 companies, excluding the Magnificent Seven, are set to grow 7.4% in the second quarter, after five straight quarters of declines.",
+  "url": "https://fortune.com/2024/08/10/stockmarketrotationearningsgrowthsp500nontechgiantsmagnificentseven/",
+  "urlToImage": "https://fortune.com/imgassets/wpcontent/uploads/2024/08/GettyImages2153349224_210c4ae1723303993407.jpg?resize=1200,600",
+  "publishedAt": "20240810T15:47:45Z",
+  "content": "As another quarterly earnings season from Corporate America enters its final stretch, this much is clear: The longawaited recovery in the companies that were left out of the artificialintelligence … [+5532 chars]"
+  },
+  {
+  "source": {
+  "id": "breitbartnews",
+  "name": "Breitbart News"
+  },
+  "author": "Kurt Zindulka, Kurt Zindulka",
+  "title": "UK Establishment Media Clamour for Censorship over AntiMigration Riots",
+  "description": "Legacy media outlets have blamed Elon Musk and social media for the antimigration riots and called for more censorship in Britain.\nThe post UK Establishment Media Clamour for Censorship over AntiMigration Riots appeared first on Breitbart.",
+  "url": "https://www.breitbart.com/europe/2024/08/10/ukestablishmentmediaclamourforcensorshipoverantimigrationriots/",
+  "urlToImage": "https://media.breitbart.com/media/2024/08/AP240527388233281640x335.jpg",
+  "publishedAt": "20240810T15:44:51Z",
+  "content": "Establishment media in Britain, in an apparent attempt to deflect from the underlying issues facing the UK, have sought to blame social media for the antimass migration riots while urging the govern… [+4539 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Autoblog"
+  },
+  "author": "Reuters",
+  "title": "South Korea to hold emergency meeting after EV fires raise safety concerns",
+  "description": "Filed under:\n Government/Legal,Green,Safety,Electric\n Continue reading South Korea to hold emergency meeting after EV fires raise safety concerns\nSouth Korea to hold emergency meeting after EV fires raise safety concerns originally appeared on Autoblog on Sat…",
+  "url": "https://www.autoblog.com/2024/08/10/southkoreaemergencymeetingevfireselectriccarsvehicles/",
+  "urlToImage": "https://edgecastimg.yahoo.net/mysterio/api/6CF7658C0E4C556A54C8AC8FAA91537B1E86ADC8446F1E946D72A2D5AC847C89/autoblog/resizefill_w1200_h675;quality_85;format_webp;cc_31536000;/https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x675/format/jpg/quality/100/https://s.yimg.com/os/creatruploadedimages/202309/6e1e2e1053e211ee937f5b9c45f629dc",
+  "publishedAt": "20240810T15:30:00Z",
+  "content": "SEOUL South Korea's environment ministry said on Thursday it plans to hold an emergency meeting next week to discuss fires involving EVs, including a blaze that caused extensive damage, and draw up m… [+2447 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "theglobeandmail.com",
+  "title": "Tesla stops taking orders for cheapest Cybertruck, offers $100,000 version now",
+  "description": "Tesla has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the $100,000 version available for immediate order and delivery as soon as this month, its website showed.\nDemand and supply for the Cy…",
+  "url": "https://biztoc.com/x/a53221935494ce93",
+  "urlToImage": "https://biztoc.com/cdn/a53221935494ce93_s.webp",
+  "publishedAt": "20240810T14:09:29Z",
+  "content": "Tesla has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the $100,000 version available for immediate order and delivery as soon as … [+135 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "New York Post"
+  },
+  "author": "StackCommerce",
+  "title": "Add Apple CarPlay and Android Auto to any car with this 7inch touchscreen!",
+  "description": "Snag this deal before it drives away!",
+  "url": "https://nypost.com/2024/08/10/shopping/7inchwirelesscardisplayis42off/",
+  "urlToImage": "https://nypost.com/wpcontent/uploads/sites/2/2024/08/cardisfeat.jpg?quality=75&strip=all&w=1024",
+  "publishedAt": "20240810T14:00:00Z",
+  "content": "Discover startups, services, products and more from our partner StackCommerce. New York Post edits this content, and may be compensated and/or receive an affiliate commission if you buy through our l… [+1981 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "investing.com",
+  "title": "RPTTesla stops taking orders for cheapest Cybertruck, offers $100,000 version now",
+  "description": "By Abhirup Roy and Hyunjoo Jin\nSAN FRANCISCO (Reuters)  Tesla (NASDAQ:TSLA) has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the $100,000 version available for immediate order and delivery …",
+  "url": "https://biztoc.com/x/972f0a259ca14c94",
+  "urlToImage": "https://biztoc.com/cdn/972f0a259ca14c94_s.webp",
+  "publishedAt": "20240810T13:36:55Z",
+  "content": "By Abhirup Roy and Hyunjoo JinSAN FRANCISCO (Reuters)  Tesla (NASDAQ:TSLA) has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the $… [+135 chars]"
+  },
+  {
+  "source": {
+  "id": "thetimesofindia",
+  "name": "The Times of India"
+  },
+  "author": "Reuters",
+  "title": "Tesla stops taking orders for cheapest Cybertruck, offers $100,000 version now",
+  "description": "Tesla has stopped taking orders for its $61,000 Cybertruck, prioritizing the $100,000 version for immediate delivery. Although the truck had 1 million reservations, demand is tepid for the higherpriced models. Begun in November 2023, the Cybertruck faced del…",
+  "url": "https://economictimes.indiatimes.com/industry/renewables/teslastopstakingordersforcheapestcybertruckoffers100000versionnow/articleshow/112429145.cms",
+  "urlToImage": "https://img.etimg.com/thumb/msid112429180,width1200,height630,imgsize264768,overlayeconomictimes/photo.jpg",
+  "publishedAt": "20240810T13:23:22Z",
+  "content": "Tesla has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the $100,000 version available for immediate order and delivery as soon as … [+1838 chars]"
+  },
+  {
+  "source": {
+  "id": "thetimesofindia",
+  "name": "The Times of India"
+  },
+  "author": "Arghanshu Bose",
+  "title": "Boat Airdopes 300 review: Delivers quite well",
+  "description": "The Boat Airdopes 300, priced at Rs 1,499, impressed us with spatial audio, long battery life, and clear call quality. Equipped with dual 10mm drivers, the TWS earbuds offered decent performance despite lacking EQ adjustments. With a durable design, it provid…",
+  "url": "https://timesofindia.indiatimes.com/technology/reviews/boatairdopes300reviewdeliversquitewell/articleshow/112428483.cms",
+  "urlToImage": "https://static.toiimg.com/thumb/msid112428569,width1070,height580,imgsize29112,resizemode75,overlaytoi_sw,pt32,y_pad40/photo.jpg",
+  "publishedAt": "20240810T13:10:10Z",
+  "content": "The Boat Airdopes 300, priced at Rs 1,499, impressed us with spatial audio, long battery life, and clear call quality. Equipped with dual 10mm drivers, the TWS earbuds offered decent performance desp… [+1712 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNBC"
+  },
+  "author": null,
+  "title": "The rise of OpenAI and Microsoft's $13 billion bet on the AI startup",
+  "description": "Since its was founded in 2015, OpenAI has emerged as one of the most influential AI companies, with major enterprise customers and billions in revenue.",
+  "url": "https://www.cnbc.com/2024/08/10/riseofopenaimicrosofts13billionartificialintelligencebet.html",
+  "urlToImage": "https://image.cnbcfm.com/api/v1/image/1074180941716321352537gettyimages2153474140AFP_34TH9TC.jpeg?v=1723145548&w=1920&h=1080",
+  "publishedAt": "20240810T13:00:01Z",
+  "content": "OpenAI, the company behind the ChatGPT chatbot, was founded in 2015 by a number of researchers, academics and entrepreneurs, including Sam Altman, Greg Brockman and Elon Musk.\r\nAltman and Brockman ar… [+1011 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Wattsupwiththat.com"
+  },
+  "author": "Guest Blogger",
+  "title": "Climate Change Weekly #515:  EV Dangers Daily Becoming More Evident",
+  "description": "his is yet another case of climate virtue signaling crashing into reality. South Korean swimming stars decided to ditch the Olympic Village and check into the nice, airconditioned hotels that the organizers enjoy.",
+  "url": "https://wattsupwiththat.com/2024/08/10/climatechangeweekly515%f0%9f%94%a5evdangersdailybecomingmoreevident/",
+  "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wpcontent/uploads/2024/08/CCWelectricvehiclefire.webp?fit=1024%2C512&ssl=1",
+  "publishedAt": "20240810T13:00:00Z",
+  "content": "From Heartland Daily News\r\nYOU SHOULD SUBSCRIBE TO CLIMATE CHANGE WEEKLY.\r\nIN THIS ISSUE:\r\n<ul><li>EV Dangers Daily Becoming More Evident</li><li>Video of the Week: The Cold, not the Heat, Is the Big… [+15734 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Jalopnik"
+  },
+  "author": "Jalopnik Staff",
+  "title": "A Miata With Honda Guts, A Snapped Cybertruck Frame And A Swiss Mine Full Of VWs In This Week's Car Culture Roundup",
+  "description": "Good morning! It’s Friday, August 9, 2024, and this is The Morning Shift, your daily roundup of the top automotive headlines from around the world, in one place. Here are the important stories you need to know.  Owen Bellwood Read MoreRead more...",
+  "url": "https://jalopnik.com/amiatawithhondagutsasnappedcybertruckframeand1851618217",
+  "urlToImage": "https://i.kinjaimg.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ad988495f47c3707bc572677f2566a10.jpg",
+  "publishedAt": "20240810T13:00:00Z",
+  "content": "When Tesla officially revealed the new Cybertruck, it made some big claims about how the Cybertruck was designed to survive the apocalypse and offroading on Mars or whatever. While it wont be crash… [+386 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Slate Magazine"
+  },
+  "author": "Evan McGarvey",
+  "title": "One Part of Tim Walz’s Résumé Should Really Scare J.D. Vance",
+  "description": "It's no secret why he's so quick with the perfect joke.",
+  "url": "https://slate.com/life/2024/08/timwalzvpjdvancecouchjoketeacher.html",
+  "urlToImage": "https://compote.slate.com/images/64ecd12959ae4f0d85fcfc095b48298f.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+  "publishedAt": "20240810T13:00:00Z",
+  "content": "New Democratic VP nominee Tim Walzs decency and mensch status have rung out over the past few days. Protector of IVF. Supporter of queer teens. Champion of feeding all schoolkids. Thrower of precise … [+5687 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "thestreet.com",
+  "title": "Your local car dealer may have this shocking opinion about EVs",
+  "description": "Electric vehicles are becoming a common sight these days. \nAccording to Kelley Blue Book and Cox Automotive, over 1.2 million auto buyers went with the plug instead of the gas pump last year, commanding a 7.6 percent market share in 2023.\nWith so many models …",
+  "url": "https://biztoc.com/x/88c32a3020014e0c",
+  "urlToImage": "https://biztoc.com/cdn/88c32a3020014e0c_s.webp",
+  "publishedAt": "20240810T12:41:46Z",
+  "content": "Electric vehicles are becoming a common sight these days. According to Kelley Blue Book and Cox Automotive, over 1.2 million auto buyers went with the plug instead of the gas pump last year, commandi… [+136 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Boston Herald"
+  },
+  "author": "Tribune News Service",
+  "title": "Tech review: Five gadgets to make your car safer and more comfortable",
+  "description": "We have included two air inflators because each has its own advantages.",
+  "url": "https://www.bostonherald.com/2024/08/10/techreviewfivegadgetstomakeyourcarsaferandmorecomfortable/",
+  "urlToImage": "https://www.bostonherald.com/wpcontent/uploads/2024/08/BIZCPTTECHREVIEW1MCT1.jpg?w=1024&h=819",
+  "publishedAt": "20240810T12:20:43Z",
+  "content": "Jim Rossman | Tribune News Service (TNS)\r\nI love to drive, which is good, because I get a lot of opportunities to review gadgets for drivers.\r\nThis week I’m looking at a handful of useful things to m… [+6464 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Autoblog"
+  },
+  "author": "Insider",
+  "title": "Elizabeth Warren: Elon Musk 'betrayed' Tesla investors by prioritizing other companies",
+  "description": "Filed under:\nGovernment/Legal,Green,Tesla\n\nContinue reading Elizabeth Warren: Elon Musk 'betrayed' Tesla investors by prioritizing other companies\n\nElizabeth Warren: Elon Musk 'betrayed' Tesla investors by prioritizing other companies originally appeared on A…",
+  "url": "https://www.autoblog.com/2024/08/10/elizabethwarrenelonmuskbetrayedteslainvestorsbyprioritizingothercompanies/",
+  "urlToImage": "https://edgecastimg.yahoo.net/mysterio/api/E20B3747E41430B596CD19E301B9A78B8FCD8E4E8ED32BC8DEB151C99B5E33D1/autoblog/resizefill_w1200_h675;quality_85;format_webp;cc_31536000;/https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/business_insider_articles_888/24f1d58e61f4a23994d7eed7f1c27d62",
+  "publishedAt": "20240810T12:00:00Z",
+  "content": "Richard Bord/Getty Images; Jenny ChangRodriguez/BI\r\nElon Musk has turned his back on his own car company and appears to be putting his other projects ahead of Tesla, US Senator Elizabeth Warren said… [+2834 chars]"
+  },
+  {
+  "source": {
+  "id": "thetimesofindia",
+  "name": "The Times of India"
+  },
+  "author": "AP",
+  "title": "Recordbreaking wildfires scorch more than 1.4 million acres in Oregon, authorities say",
+  "description": "Blazes have scorched more than 1.4 million acres, or nearly 2,200 square miles (5,700 square kilometers), Northwest Interagency Coordination Center spokesperson Carol Connolly said. That's more than any other year since 1992, when reliable records began to be…",
+  "url": "https://timesofindia.indiatimes.com/home/environment/recordbreakingwildfiresscorchmorethan14millionacresinoregonauthoritiessay/articleshow/112427631.cms",
+  "urlToImage": "https://static.toiimg.com/thumb/msid112427678,width1070,height580,imgsize886191,resizemode75,overlaytoi_sw,pt32,y_pad40/photo.jpg",
+  "publishedAt": "20240810T11:59:56Z",
+  "content": "<ul><li>News</li>\r\n<li>Recordbreaking wildfires scorch more than 1.4 million acres in Oregon, authorities say</li></ul>\r\nBlazes have scorched more than 1.4 million acres, or nearly 2,200 square mile… [+1828 chars]"
+  },
+  {
+  "source": {
+  "id": "thetimesofindia",
+  "name": "The Times of India"
+  },
+  "author": "AP",
+  "title": "Mars and Jupiter get chummy in the night sky. The planets won't get this close again until 2033",
+  "description": "They'll be so close Wednesday, at least from our perspective, that just a sliver of moon could fit between them. In reality, our solar system's biggest planet and its dimmer, reddish neighbor will be more than 350 million miles (575 million kilometers) apart …",
+  "url": "https://timesofindia.indiatimes.com/science/marsandjupitergetchummyinthenightskytheplanetswontgetthiscloseagainuntil2033/articleshow/112427506.cms",
+  "urlToImage": "https://static.toiimg.com/thumb/msid112427596,width1070,height580,imgsize738255,resizemode75,overlaytoi_sw,pt32,y_pad40/photo.jpg",
+  "publishedAt": "20240810T11:58:53Z",
+  "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Mars and Jupiter get chummy in the night sky. The planets won't get this close again until 2033</li></ul>\r\nThey'll be so close Wednesday, at least from o… [+1823 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Investing.com"
+  },
+  "author": "Investing.com",
+  "title": "MDB COURT DEADLINE: A Securities Fraud Lawsuit was Filed Against MongoDB, Inc. (Nasdaq:MDB); Investors that Lost Money have Until September 9 before Legal Deadline",
+  "description": "MDB COURT DEADLINE: A Securities Fraud Lawsuit was Filed Against MongoDB, Inc. (Nasdaq:MDB); Investors that Lost Money have Until September 9 before Legal Deadline",
+  "url": "https://www.investing.com/news/pressreleases/mdbcourtdeadlineasecuritiesfraudlawsuitwasfiledagainstmongodbincnasdaqmdbinvestorsthatlostmoneyhaveuntilseptember9beforelegaldeadline93CH3565474",
+  "urlToImage": "https://iinvdncom.investing.com/redesign/images/seo/investing_300X300.png",
+  "publishedAt": "20240810T11:52:05Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces a lawsuit has been filed against MongoDB (NASDAQ:MDB), Inc. (MongoDB or the Company) (… [+3639 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Investing.com"
+  },
+  "author": "Investing.com",
+  "title": "FIVE COURT DEADLINE: A Securities Fraud Lawsuit was Filed Against Five Below, Inc. (Nasdaq:FIVE); Investors that Lost Money have Until September 30 before Legal Deadline",
+  "description": "FIVE COURT DEADLINE: A Securities Fraud Lawsuit was Filed Against Five Below, Inc. (Nasdaq:FIVE); Investors that Lost Money have Until September 30 before Legal Deadline",
+  "url": "https://www.investing.com/news/pressreleases/fivecourtdeadlineasecuritiesfraudlawsuitwasfiledagainstfivebelowincnasdaqfiveinvestorsthatlostmoneyhaveuntilseptember30beforelegaldeadline93CH3565473",
+  "urlToImage": "https://iinvdncom.investing.com/redesign/images/seo/investing_300X300.png",
+  "publishedAt": "20240810T11:52:05Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces that a lawsuit has been filed against Five Below, Inc. (NASDAQ: NASDAQ:FIVE) and certa… [+3841 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Bleichmar Fonti & Auld",
+  "title": "TWKS INVESTOR ALERT: Is $4.40 Per Share Enough for Thoughtworks Holdings, Inc.? BFA Law is Investigating and Encourages Shareholders to Contact the Firm (Nasdaq:TWKS)",
+  "description": "Thoughtworks shareholders are encouraged to contact BFA Law about their rights relating to the upcoming merger.......",
+  "url": "https://www.globenewswire.com/newsrelease/2024/08/10/2928003/0/en/TWKSINVESTORALERTIs440PerShareEnoughforThoughtworksHoldingsIncBFALawisInvestigatingandEncouragesShareholderstoContacttheFirmNasdaqTWKS.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cfd4704d8aaf6bdbb1b5bbb11e",
+  "publishedAt": "20240810T11:49:00Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Top law firm Bleichmar Fonti &amp; Auld LLP is investigating the Thoughtworks Holdings, Inc. (Thoughtworks or the Company) (NASDAQ: TWKS) buyout by Apax Pa… [+2953 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Bleichmar Fonti & Auld",
+  "title": "TDC COURT DEADLINE: Only 3Days Remain Before Teradata Corp. Securities Fraud Class Action Deadline; If You Suffered Losses Contact BFA Law (NYSE:TDC)",
+  "description": "Teradata Corp. investors that lost money on their investment are encouraged to contact BFA Law before the August 13, 2024 legal deadline.......",
+  "url": "https://www.globenewswire.com/newsrelease/2024/08/10/2928002/0/en/TDCCOURTDEADLINEOnly3DaysRemainBeforeTeradataCorpSecuritiesFraudClassActionDeadlineIfYouSufferedLossesContactBFALawNYSETDC.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cfd4704d8aaf6bdbb1b5bbb11e",
+  "publishedAt": "20240810T11:47:00Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Top law firm Bleichmar Fonti &amp; Auld LLP announces the upcoming August 13, 2024 deadline in the Teradata Corp. (NYSE:TDC) securities class action lawsui… [+2985 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Autoblog"
+  },
+  "author": "Reuters",
+  "title": "Tesla only offering $100,000 Cybertruck now",
+  "description": "Filed under:\n Green,Tesla\n Continue reading Tesla only offering $100,000 Cybertruck now\nTesla only offering $100,000 Cybertruck now originally appeared on Autoblog on Sat, 10 Aug 2024 07:43:00 EDT. Please see our terms for use of feeds.\nPermalink | \nEmail thi…",
+  "url": "https://www.autoblog.com/2024/08/10/teslaonlyoffering100000cybertrucknow/",
+  "urlToImage": "https://edgecastimg.yahoo.net/mysterio/api/970B8AFA853CF3FE35659222B92EDEA85686BA9058B2715D5DE11019DBF13AF6/autoblog/resizefill_w1200_h675;quality_85;format_webp;cc_31536000;/https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x675/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/08/10074303/Screenshot20240810at7.41.56 AM.png",
+  "publishedAt": "20240810T11:43:00Z",
+  "content": "Tesla has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the $100,000 version available for immediate order and delivery as soon as … [+1783 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Bleichmar Fonti & Auld",
+  "title": "MDB COURT DEADLINE: A Securities Fraud Lawsuit was Filed Against MongoDB, Inc. (Nasdaq:MDB); Investors that Lost Money have Until September 9 before Legal Deadline",
+  "description": "MongoDB investors that lost money on their investment are encouraged to contact BFA Law before the September 9, 2024 legal deadline.......",
+  "url": "https://www.globenewswire.com/newsrelease/2024/08/10/2928001/0/en/MDBCOURTDEADLINEASecuritiesFraudLawsuitwasFiledAgainstMongoDBIncNasdaqMDBInvestorsthatLostMoneyhaveUntilSeptember9beforeLegalDeadline.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cfd4704d8aaf6bdbb1b5bbb11e",
+  "publishedAt": "20240810T11:42:00Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces a lawsuit has been filed against MongoDB, Inc. (MongoDB or the Company) (Nasdaq:MDB) a… [+3569 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Bleichmar Fonti & Auld",
+  "title": "FIVE COURT DEADLINE: A Securities Fraud Lawsuit was Filed Against Five Below, Inc. (Nasdaq:FIVE); Investors that Lost Money have Until September 30 before Legal Deadline",
+  "description": "Five Below, Inc. investors that lost money on their investment are encouraged to contact BFA Law about their rights.......",
+  "url": "https://www.globenewswire.com/newsrelease/2024/08/10/2928000/0/en/FIVECOURTDEADLINEASecuritiesFraudLawsuitwasFiledAgainstFiveBelowIncNasdaqFIVEInvestorsthatLostMoneyhaveUntilSeptember30beforeLegalDeadline.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cfd4704d8aaf6bdbb1b5bbb11e",
+  "publishedAt": "20240810T11:40:00Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces that a lawsuit has been filed against Five Below, Inc. (NASDAQ: FIVE) and certain of t… [+3803 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Bleichmar Fonti & Auld",
+  "title": "ELAN INVESTOR ALERT: A Securities Fraud Investigation was Initiated Against Elanco (NYSE:ELAN); Investors that Lost Money are Encouraged to Contact BFA Law",
+  "description": "Elanco investors that lost money on their investment are encouraged to contact BFA Law about their rights.......",
+  "url": "https://www.globenewswire.com/newsrelease/2024/08/10/2927999/0/en/ELANINVESTORALERTASecuritiesFraudInvestigationwasInitiatedAgainstElancoNYSEELANInvestorsthatLostMoneyareEncouragedtoContactBFALaw.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cfd4704d8aaf6bdbb1b5bbb11e",
+  "publishedAt": "20240810T11:38:00Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces an investigation into Elanco Animal Health Incorporated (NYSE:ELAN) for potential viol… [+2826 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Bleichmar Fonti & Auld",
+  "title": "DXCM INVESTOR ALERT: A Securities Fraud Investigation was Initiated Against DexCom, Inc. (Nasdaq:DXCM); Investors that Lost Money are Encouraged to Contact BFA Law",
+  "description": "DexCom, Inc. investors that lost money on their investment are encouraged to contact BFA Law about their rights.......",
+  "url": "https://www.globenewswire.com/newsrelease/2024/08/10/2927998/0/en/DXCMINVESTORALERTASecuritiesFraudInvestigationwasInitiatedAgainstDexComIncNasdaqDXCMInvestorsthatLostMoneyareEncouragedtoContactBFALaw.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cfd4704d8aaf6bdbb1b5bbb11e",
+  "publishedAt": "20240810T11:36:00Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces an investigation into DexCom, Inc. (NASDAQ: DXCM) for potential violations of the fede… [+2499 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Bleichmar Fonti & Auld",
+  "title": "CRM INVESTOR ALERT: A Securities Fraud Investigation was Initiated Against Salesforce, Inc. (NYSE:CRM); Investors that Lost Money are Encouraged to Contact BFA Law",
+  "description": "Salesforce, Inc. investors that lost money on their investment are encouraged to contact BFA Law about their rights.......",
+  "url": "https://www.globenewswire.com/newsrelease/2024/08/10/2927997/0/en/CRMINVESTORALERTASecuritiesFraudInvestigationwasInitiatedAgainstSalesforceIncNYSECRMInvestorsthatLostMoneyareEncouragedtoContactBFALaw.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cfd4704d8aaf6bdbb1b5bbb11e",
+  "publishedAt": "20240810T11:34:00Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces an investigation into Salesforce, Inc. (NYSE:CRM) for potential violations of the fede… [+2342 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Bleichmar Fonti & Auld",
+  "title": "CAE COURT DEADLINE: BFA Law has Filed a Securities Fraud Lawsuit Against CAE, Inc. (NYSE:CAE); Investors that Lost Money have Until September 16 before Legal Deadline",
+  "description": "CAE, Inc. investors that lost money on their investment are encouraged to contact BFA Law before September 16, 2024 legal deadline.......",
+  "url": "https://www.globenewswire.com/newsrelease/2024/08/10/2927996/0/en/CAECOURTDEADLINEBFALawhasFiledaSecuritiesFraudLawsuitAgainstCAEIncNYSECAEInvestorsthatLostMoneyhaveUntilSeptember16beforeLegalDeadline.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cfd4704d8aaf6bdbb1b5bbb11e",
+  "publishedAt": "20240810T11:31:00Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Bleichmar Fonti &amp; Auld LLP (BFA) announces that it has filed a class action lawsuit for violations of the federal securities laws against CAE Inc. (CAE… [+4907 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Quartz India"
+  },
+  "author": "Andy Kalmowitz / Jalopnik",
+  "title": "How Tesla's NACS charger became the champion of the charger world",
+  "description": "For a couple of years, there was a war among the makers of electric vehicle charging plugs over which company would win market supremacy. Well, now it seems we’ve got a clear winner, and it’s Tesla’s North American Charging Standard. For a long time, it didn’…",
+  "url": "https://qz.com/teslasnacsbeatsoutfordandgm1851617717",
+  "urlToImage": "https://i.kinjaimg.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/32e62d5a564357df11059f92bab7e503.jpg",
+  "publishedAt": "20240810T11:00:00Z",
+  "content": "For a couple of years, there was a war among the makers of electric vehicle charging plugs over which company would win market supremacy. Well, now it seems weve got a clear winner, and its Teslas No… [+4219 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Bleichmar Fonti & Auld",
+  "title": "MXL INVESTOR ALERT: A Securities Fraud Investigation was Initiated Against MaxLinear, Inc. (Nasdaq:MXL); Investors that Lost Money are Encouraged to Contact BFA Law",
+  "description": "MaxLinear investors that lost money on their investment are encouraged to contact BFA Law about their rights.......",
+  "url": "https://www.globenewswire.com/newsrelease/2024/08/10/2927995/0/en/MXLINVESTORALERTASecuritiesFraudInvestigationwasInitiatedAgainstMaxLinearIncNasdaqMXLInvestorsthatLostMoneyareEncouragedtoContactBFALaw.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cfd4704d8aaf6bdbb1b5bbb11e",
+  "publishedAt": "20240810T10:44:00Z",
+  "content": "NEW YORK, Aug. 10, 2024 (GLOBE NEWSWIRE)  Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces an investigation into MaxLinear, Inc. (NASDAQ: MXL) for potential violations of the fe… [+2354 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Futurism"
+  },
+  "author": "Victor Tangermann",
+  "title": "Zoomers Think Teslas Aren't \"Cool\" Anymore, Survey Finds",
+  "description": "A new survey conducted by interns at investment bank Morgan Stanley has found that the \"Tesla 'cool factor' is cooling\" among Gen Zers in the US. According to the report, the Elon Muskled company was the most desirable brand for only 11 percent of Morgan Sta…",
+  "url": "https://futurism.com/thebyte/zoomersteslasarentcool",
+  "urlToImage": "https://wordpressassets.futurism.com/2024/08/zoomersteslasarentcool.jpg",
+  "publishedAt": "20240810T10:30:49Z",
+  "content": "\"I think that [Musk's] latest antics have really cost the company. It's caused problems that never needed to exist.\"\r\nCooked\r\nA new survey of interns at investment bank Morgan Stanley has found that … [+2586 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Forbes"
+  },
+  "author": "William Baldwin, Senior Contributor, \n William Baldwin, Senior Contributor\n https://www.forbes.com/sites/baldwin/",
+  "title": "Market Lessons: Comparing Price To Sales As A Value Flag—With 20 Cheap Stocks",
+  "description": "Pay attention to the top line in the income statement. It may provide a hint about where earnings are headed.",
+  "url": "https://www.forbes.com/sites/baldwin/2024/08/10/marketlessonscomparingpricetosalesasavalueflagwith20cheapstocks/",
+  "urlToImage": "https://imageio.forbes.com/specialsimages/imageserve/66b12c50ee1fb556389d4e4f/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+  "publishedAt": "20240810T10:30:00Z",
+  "content": "SAMXMEG/ GETTY IMAGES\r\nT\r\nhe pricetoearnings ratio is basic. Pricetosales is somewhat obscure. This article aims to lift the latter ratio out of obscurity and show its purpose.\r\nIf all you know a… [+5101 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "aol.com",
+  "title": "Instead Of Buying the Dip On \"Magnificent Seven\" Stocks Like Amazon, Consider This Growth Stock",
+  "description": "The \"Magnificent Seven\"  Apple, Microsoft, Nvidia, Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG), Amazon, Meta Platforms (NASDAQ: META), and Tesla  have captured the spotlight this earnings season. And for good reason  the group has been instrumental in leadi…",
+  "url": "https://biztoc.com/x/8329c219cdde6bf8",
+  "urlToImage": "https://biztoc.com/cdn/8329c219cdde6bf8_s.webp",
+  "publishedAt": "20240810T10:08:47Z",
+  "content": "The \"Magnificent Seven\"  Apple, Microsoft, Nvidia, Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG), Amazon, Meta Platforms (NASDAQ: META), and Tesla  have captured the spotlight this earnings season. And… [+132 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "chicagotribune.com",
+  "title": "A new state law mandates new homes be equipped with EVcapable parking, but for many buyers, home chargers aren’t yet an essential amenity",
+  "description": "James Valentine has owned a Tesla since 2018, and he recently purchased a second one.\nHe charges the vehicles a few times a week and plugs one in overnight when he has to commute the next day, so wiring his Kildeer home to support EV charging was a nobrainer…",
+  "url": "https://biztoc.com/x/b5cc856f0c82e030",
+  "urlToImage": "https://biztoc.com/cdn/800/og.png",
+  "publishedAt": "20240810T10:08:31Z",
+  "content": "James Valentine has owned a Tesla since 2018, and he recently purchased a second one.He charges the vehicles a few times a week and plugs one in overnight when he has to commute the next day, so wiri… [+142 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "[Removed]"
+  },
+  "author": null,
+  "title": "[Removed]",
+  "description": "[Removed]",
+  "url": "https://removed.com",
+  "urlToImage": null,
+  "publishedAt": "19700101T00:00:00Z",
+  "content": "[Removed]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Richmond.com"
+  },
+  "author": "EM HOLTER Richmond TimesDispatch",
+  "title": "From the Archives: The time Richmond banned The Grateful Dead",
+  "description": "“This city doesn’t deserve the Grateful Dead,” one Richmond fan told The TimesDispatch on Sunday, July 26, 1987.",
+  "url": "https://richmond.com/news/archives/fromthearchivesrichmondthegratefuldead/article_30b690dc55bf11efa5d46773a46e87be.html",
+  "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/0b/30b690dc55bf11efa5d46773a46e87be/66b5252e25431.preview.jpg?crop=827%2C434%2C0%2C87&resize=827%2C434&order=crop%2Cresize",
+  "publishedAt": "20240810T10:00:00Z",
+  "content": "For two nights, the bygone Summer of Love days returned to Richmond. Road hard vans clad in dancing skeletons and Cosmic Charlie bumper stickers  many of them repping outofstate license plates  pul… [+45705 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The Star Online"
+  },
+  "author": "The Star Online",
+  "title": "Miti and Tesla to hold meeting on August 22",
+  "description": "SABAK BERNAM: The International Trade and Industry Ministry and Tesla Inc. (Tesla) are scheduled to have a special meeting on August 22, says Tengku Datuk Seri Zafrul Tengku Abdul Aziz. Read full story",
+  "url": "https://www.thestar.com.my/news/nation/2024/08/10/mitiandteslatoholdmeetingonaugust22",
+  "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/08/10/2851365.jpeg",
+  "publishedAt": "20240810T09:01:00Z",
+  "content": "SABAK BERNAM: The International Trade and Industry Ministry and Tesla Inc. (Tesla) are scheduled to have a special meeting on August 22, says Tengku Datuk Seri Zafrul Tengku Abdul Aziz (pic).\r\nHe sai… [+1479 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Forbes"
+  },
+  "author": "James Morris, Contributor, \n James Morris, Contributor\n https://www.forbes.com/sites/jamesmorris/",
+  "title": "This Software Can Make Your Electric Car Battery Charge 30% Faster",
+  "description": "Breathe's software approach to battery optimization promises to enhance charging speed and lifespan without needing new cell chemistry or hardware changes.",
+  "url": "https://www.forbes.com/sites/jamesmorris/2024/08/10/thissoftwarecanmakeyourelectriccarbatterycharge30faster/",
+  "urlToImage": "https://imageio.forbes.com/specialsimages/imageserve/66b6a91856b13b39ded769ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+  "publishedAt": "20240810T08:56:21Z",
+  "content": "Charging time is one of the regular criticisms aimed at EVs. People who have been used to refilling a fossil fuel car in a few minutes get very concerned about spending half an hour or more to top up… [+7538 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Securityaffairs.com"
+  },
+  "author": "Pierluigi Paganini",
+  "title": "Crooks took control of a cow milking robot causing the death of a cow",
+  "description": "Crooks took control of a cow milking robot and demanded a ransom from a farmer who refused to pay it, resulting in the death of a cow. An extortion attempt had a tragic outcome, cybercriminals took control of a cow milking robot and demanded a ransom from a f…",
+  "url": "https://securityaffairs.com/166839/cybercrime/cowmilkingrobothacked.html",
+  "urlToImage": "https://securityaffairs.com/wpcontent/uploads/2024/08/cowmilkingrobot.jpg",
+  "publishedAt": "20240810T08:19:24Z",
+  "content": "Crooks took control of a cow milking robot causing the death of a cow\r\n | Sonos smart speakers flaw allowed to eavesdrop on users\r\n | Five zerodays impacts EoL Cisco Small Business IP Phones. Replac… [+90466 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Investing.com"
+  },
+  "author": "Investing.com",
+  "title": "Weekly market recap: Here's how S&P 500 sectors performed last week",
+  "description": "Weekly market recap: Here's how S&P 500 sectors performed last week",
+  "url": "https://www.investing.com/news/stockmarketnews/weeklymarketrecaphereshowsp500sectorsperformedlastweek3565454",
+  "urlToImage": "https://iinvdncom.investing.com/news/moved_LYNXMPEI170OB_L.jpg",
+  "publishedAt": "20240810T08:14:34Z",
+  "content": "US stocks concluded the week with a modest rebound, with the S&amp;P 500 index rising by 0.5%, therefore marking the strongest consecutive daily gains of the year.\r\nThe rebound in stocks helped to of… [+3314 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "theguardian.com",
+  "title": "‘His rhetoric has made Tesla toxic’: is Elon Musk driving away his target market?",
+  "description": "There are signs the billionaire is becoming unpopular with the very demographic group most likely to buy EVs\nElon Musk has long flirted with rightwing politics, and delights in pushing an image of himself as a contrarian showman. Yet in recent months the bill…",
+  "url": "https://biztoc.com/x/a5294883a7585dea",
+  "urlToImage": "https://biztoc.com/cdn/a5294883a7585dea_s.webp",
+  "publishedAt": "20240810T07:02:56Z",
+  "content": "There are signs the billionaire is becoming unpopular with the very demographic group most likely to buy EVsElon Musk has long flirted with rightwing politics, and delights in pushing an image of him… [+129 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "VOA News"
+  },
+  "author": "webdesk@voanews.com (Reuters)",
+  "title": "China's drivers fret as robotaxis pick up pace  and passengers",
+  "description": "WUHAN, China — Liu Yi is among China's 7 million ridehailing drivers. A 36yearold Wuhan resident, he started driving parttime this year when construction work slowed in the face of a nationwide glut of unsold apartments.\n\n\nNow he predicts another crisis a…",
+  "url": "https://www.voanews.com/a/chinasdriversfretasrobotaxispickuppaceandpassengers/7734349.html",
+  "urlToImage": "https://gdb.voanews.com/9E8EBDBAB8624CE182279DDA822C4D11.jpg",
+  "publishedAt": "20240810T07:00:00Z",
+  "content": "WUHAN, China  Liu Yi is among China's 7 million ridehailing drivers. A 36yearold Wuhan resident, he started driving parttime this year when construction work slowed in the face of a nationwide gl… [+5929 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Hurriyet Daily News"
+  },
+  "author": "hurriyetdailynews.com",
+  "title": "Modesty the aim for Türkiye's Olympic shooting sensation",
+  "description": "The \"Yusuf Dikeç pose\" has become a trendy winning stance for athletes competing at the 2024 Paris Olympics, along with footballers.",
+  "url": "https://www.hurriyetdailynews.com/yusufdikecposebecomestrendywinningstanceforathletes199360",
+  "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/66b707c8fb2a0d0bc9e80e9d.jpg",
+  "publishedAt": "20240810T06:25:00Z",
+  "content": "ISTANBUL\r\nYusuf Dikeç may have an Olympic medal and a legion of adoring online fans, but the Turkish pistol sharpshooter is aiming to keep his feet on the ground.\r\nShots of the athlete cocking his pi… [+4746 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "[Removed]"
+  },
+  "author": null,
+  "title": "[Removed]",
+  "description": "[Removed]",
+  "url": "https://removed.com",
+  "urlToImage": null,
+  "publishedAt": "19700101T00:00:00Z",
+  "content": "[Removed]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "dailymail.co.uk",
+  "title": "Lawsuit seeks $1M for family of man electrocuted at Tesla's Giga Texas",
+  "description": "Texas father, 46, died after being ELECTROCUTED by faulty equipment at Tesla Giga factory, lawsuit claims\n READ MORE: Cybertruck design flaw can CHOP OFF a passenger's fingers\nA father was electrocuted and killed by faulty equipment at Tesla's Giga factory j…",
+  "url": "https://biztoc.com/x/9c5b47a8979ce68e",
+  "urlToImage": "https://biztoc.com/cdn/9c5b47a8979ce68e_s.webp",
+  "publishedAt": "20240810T04:40:23Z",
+  "content": "Texas father, 46, died after being ELECTROCUTED by faulty equipment at Tesla Giga factory, lawsuit claims READ MORE: Cybertruck design flaw can CHOP OFF a passenger's fingersA father was electrocute… [+131 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Substack.com"
+  },
+  "author": "Tesla News Tonight 🤖🧡",
+  "title": "Trump's Health Is Fine",
+  "description": "Evil Assassins Are His Only Health Risk ",
+  "url": "https://teslanewstonight.substack.com/p/trumpshealthisfine",
+  "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstackpostmedia.s3.amazonaws.com%2Fpublic%2Fimages%2F887fc3477126413b9dce1f7c558702ce_4032x3024.jpeg",
+  "publishedAt": "20240810T03:36:02Z",
+  "content": "Tesla News Tonight is never investment advice and never financial advice and never political or voting advice.\r\n#Trump2024\r\nTSLA 0.00%"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Arun.is"
+  },
+  "author": "Arun Venkatesan",
+  "title": "Shanghai's Automotive Metamorphosis",
+  "description": "Over many visits over two decades, I have witnessed China's meteoric rise from a land of bicycles to an electric vehicle powerhouse.",
+  "url": "https://arun.is/blog/shanghaicars/",
+  "urlToImage": "https://www.arun.is/static/466a280135a8fa030949fb017d1aa5aa/social.jpg",
+  "publishedAt": "20240810T03:16:14Z",
+  "content": "In 2005, I landed in China, clutching my prized fourthgeneration iPod. My\r\nexcitement quickly diminished when I realized I had forgotten the charger.\r\nLocals were perplexed when I asked them for hel… [+5697 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Memeorandum.com"
+  },
+  "author": null,
+  "title": "Elon Musk is bringing lawsuits to Texas. A judge with Tesla stock keeps hearing them (Bobby Allyn/NPR)",
+  "description": "Bobby Allyn / NPR:\nElon Musk is bringing lawsuits to Texas.  A judge with Tesla stock keeps hearing them  —  Billionaire Elon Musk seems to have found a new favorite federal judge: Reed O'Connor in Fort Worth, Texas.  —  Musk's social media company X has file…",
+  "url": "https://www.memeorandum.com/240809/p85",
+  "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/599x337+0+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnprbrightspot.s3.amazonaws.com%2Fff%2Fc6%2F3fd79267436a83328d1c779f6cb5%2Fjudgeoconnorwithchiron.png",
+  "publishedAt": "20240810T01:45:00Z",
+  "content": "memeorandum is an autogenerated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a humanedited news out… [+72 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "aol.com",
+  "title": "Tesla stops taking orders for cheapest Cybertruck, offers $100,000 version now",
+  "description": "By Abhirup Roy and Hyunjoo Jin\nSAN FRANCISCO (Reuters)  Tesla has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the $100,000 version available for immediate order and delivery as soon as thi…",
+  "url": "https://biztoc.com/x/e63483fb20d42703",
+  "urlToImage": "https://biztoc.com/cdn/e63483fb20d42703_s.webp",
+  "publishedAt": "20240810T00:38:30Z",
+  "content": "By Abhirup Roy and Hyunjoo JinSAN FRANCISCO (Reuters)  Tesla has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the $100,000 versio… [+123 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Investing.com"
+  },
+  "author": "Reuters",
+  "title": "Tesla stops taking orders for cheapest Cybertruck, offers $100,000 version now",
+  "description": "Tesla stops taking orders for cheapest Cybertruck, offers $100,000 version now",
+  "url": "https://www.investing.com/news/stockmarketnews/teslastopstakingordersforcheapestcybertruckoffers100000versionnow3565424",
+  "urlToImage": "https://iinvdncom.investing.com/news/Tesla_800x533_L_1608132953.jpg",
+  "publishedAt": "20240810T00:35:38Z",
+  "content": "By Abhirup Roy and Hyunjoo Jin\r\nSAN FRANCISCO (Reuters)  Tesla (NASDAQ:TSLA) has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the… [+1858 chars]"
+  },
+  {
+  "source": {
+  "id": "thetimesofindia",
+  "name": "The Times of India"
+  },
+  "author": "Dia Rekhi and Mannat Dora",
+  "title": "Indians flying high in Silicon Valley. Destination: CSuite",
+  "description": "Indian talent has permeated the upper echelons of the US tech industry. While individuals like Satya Nadella and Sundar Pichai garner significant attention, a deeper dive reveals a robust pipeline of IndianAmerican leaders poised to shape the industry's futu…",
+  "url": "https://economictimes.indiatimes.com/tech/technology/indiansflyinghighinsiliconvalleydestinationcsuite/articleshow/112411149.cms",
+  "urlToImage": "https://img.etimg.com/thumb/msid112411152,width1200,height630,imgsize9672,overlayettech/photo.jpg",
+  "publishedAt": "20240810T00:30:00Z",
+  "content": "It isnt just the CEOs of Indian origin whove taken the tech world by storm in the US. A number of the toptier leadership positions or CXOs in these companies are also held by Indians or those of Ind… [+5927 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Abhirup Roy and Hyunjoo Jin",
+  "title": "Tesla stops taking orders for cheapest Cybertruck, offers $100,000 version now",
+  "description": "Tesla has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the $100,000 version available...",
+  "url": "https://finance.yahoo.com/news/teslastopstakingorderscheapest002525641.html",
+  "urlToImage": "https://media.zenfs.com/en/reutersfinance.com/1489137fd0f4c9e35a741b3693a2bf85",
+  "publishedAt": "20240810T00:25:25Z",
+  "content": "By Abhirup Roy and Hyunjoo Jin\r\nSAN FRANCISCO (Reuters)  Tesla has stopped taking orders for the least expensive version of its Cybertruck, which is priced at $61,000, while making the $100,000 vers… [+1926 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": null,
+  "title": "Tesla stops taking orders for cheapest Cybertruck, offers $100,000 version now",
+  "description": null,
+  "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_ccsession_59dca3d5d6cd4a4e894ee5f121cabe45",
+  "urlToImage": null,
+  "publishedAt": "20240810T00:25:25Z",
+  "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNA"
+  },
+  "author": null,
+  "title": "Tesla stops taking orders for cheapest Cybertruck, offers US$100,000 version now",
+  "description": "SAN FRANCISCO: Tesla has stopped taking orders for the least expensive version of its Cybertruck, which is priced at US$61,000, while making the US$100,000 version available for immediate order and delivery as soon as this month, its website showed. Demand an…",
+  "url": "https://www.channelnewsasia.com/business/teslastopstakingorderscheapestcybertruckoffersus100000versionnow4539096",
+  "urlToImage": "https://onecmsres.cloudinary.com/image/upload/sudTDhNj4/fl_relative,g_south_east,l_mediacorp:cna:watermark:202404:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/onecms/core/20240810t003010z_2_lynxmpek79008_rtroptp_3_teslaresults.jpg?itok=5AlwHH2E",
+  "publishedAt": "20240810T00:25:00Z",
+  "content": "SAN FRANCISCO: Tesla has stopped taking orders for the least expensive version of its Cybertruck, which is priced at US$61,000, while making the US$100,000 version available for immediate order and d… [+1811 chars]"
+  },
+  {
+  "source": {
+  "id": "abcnews",
+  "name": "ABC News"
+  },
+  "author": "JILL COLVIN Associated Press, MICHELLE L. PRCE Associated Press",
+  "title": "Trump campaign projects confidence and looks to young male voters for an edge on Harris",
+  "description": "Donald Trump’s campaign is banking on younger male voters to put him over the edge in November as he adjusts to the reality of a new presidential contest against Vice President Kamala Harris that his aides say remains his to lose",
+  "url": "https://abcnews.go.com/Politics/wireStory/trumpcampaignprojectsconfidenceyoungmalevotersedge112729379",
+  "urlToImage": "https://i.abcnewsfe.com/a/8d4bfbe26fa141848c8af0fde4416666/wirestory_5c8717db7023ccaf793562fde90bb65a_16x9.jpg?w=1600",
+  "publishedAt": "20240810T00:14:51Z",
+  "content": "WEST PALM BEACH, Fla.  As Donald Trump adjusts to the reality of his new race against Kamala Harris, his campaign is counting on younger male voters to give him the edge in November in a presidenti… [+5295 chars]"
+  },
+  {
+  "source": {
+  "id": "abcnews",
+  "name": "ABC News"
+  },
+  "author": "JILL COLVIN Associated Press, MICHELLE L. PRCE Associated Press",
+  "title": "Trump campaign projects confidence and looks to young male voters for an edge on Harris",
+  "description": "Donald Trump’s campaign is banking on younger male voters to put him over the edge in November as he adjusts to the reality of a new presidential contest against Vice President Kamala Harris that his aides say remains his to lose",
+  "url": "https://abcnews.go.com/US/wireStory/trumpcampaignprojectsconfidenceyoungmalevotersedge112729378",
+  "urlToImage": "https://i.abcnewsfe.com/a/8d4bfbe26fa141848c8af0fde4416666/wirestory_5c8717db7023ccaf793562fde90bb65a_16x9.jpg?w=1600",
+  "publishedAt": "20240810T00:14:49Z",
+  "content": "WEST PALM BEACH, Fla.  As Donald Trump adjusts to the reality of his new race against Kamala Harris, his campaign is counting on younger male voters to give him the edge in November in a presidenti… [+5295 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The Sydney Morning Herald"
+  },
+  "author": "David Swan",
+  "title": "EVs: How Tesla and BYD electric cars compare",
+  "description": "Driving from Melbourne to Sydney in BYD’s latest plugin hybrid underscores why electric vehicles sales are slowing down.",
+  "url": "https://www.smh.com.au/technology/theevhatershaveapoint20240807p5k0ak.html",
+  "urlToImage": "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_opinion_no_age_social_wm/7070aeb30aa5db8e13702f970f8636e057df4b77",
+  "publishedAt": "20240810T00:12:03Z",
+  "content": "The Chinese company had previously only offered allelectric vehicles in Australia, including the Dolphin and Seal, but the Sealion 6 and a coming ute, the Shark are its first local plugin hybrids.\r… [+5674 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Erickimphotography.com"
+  },
+  "author": "ERIC KIM",
+  "title": "Thoughts on the new Tesla Model 3 Performance",
+  "description": "Saw it in Quiksilver at the Century City mall, and it blew me away! So beautiful, literally the perfect car. Also the rear diffuser on the rear trunk looks phenomenal. The new racing bucket seats feel great, but one critical flaw in the car… The steering whee…",
+  "url": "https://erickimphotography.com/blog/2024/08/09/thoughtsonthenewteslamodel3performance/",
+  "urlToImage": null,
+  "publishedAt": "20240810T00:06:44Z",
+  "content": "Saw it in Quiksilver at the Century City mall, and it blew me away! So beautiful, literally the perfect car. Also the rear diffuser on the rear trunk looks phenomenal.\r\n The new racing bucket seats f… [+352 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Securityaffairs.com"
+  },
+  "author": "Pierluigi Paganini",
+  "title": "Sonos smart speakers flaw allowed to eavesdrop on users",
+  "description": "NCC Group discovered vulnerabilities in Sonos smart speakers, including a flaw that could have allowed to eavesdrop on users. Researchers from NCC Group have discovered multiple vulnerabilities in Sonos smart speakers, including a flaw, tracked as CVE202350…",
+  "url": "https://securityaffairs.com/166823/hacking/sonossmartspeakersflaw.html",
+  "urlToImage": "https://securityaffairs.com/wpcontent/uploads/2024/08/image7.png",
+  "publishedAt": "20240810T00:00:55Z",
+  "content": "Sonos smart speakers flaw allowed to eavesdrop on users\r\n | Five zerodays impacts EoL Cisco Small Business IP Phones. Replace them with newer models asap!\r\n | CISA adds Apache OFBiz and Android kern… [+90392 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Investing.com"
+  },
+  "author": "Investing.com",
+  "title": "Sunrun Inc. legal officer sells over $460k in company stock",
+  "description": "Sunrun Inc. legal officer sells over $460k in company stock",
+  "url": "https://www.investing.com/news/companynews/sunruninclegalofficersellsover460kincompanystock93CH3565411",
+  "urlToImage": "https://iinvdncom.investing.com/redesign/images/seo/investing_300X300.png",
+  "publishedAt": "20240809T23:44:11Z",
+  "content": "In a recent transaction, Jeanna Steele, Chief Legal &amp; People Officer of Sunrun Inc . (NASDAQ:RUN), sold 24,161 shares of the company's common stock, generating over $460,000 in total proceeds. Th… [+4619 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Slashdot.org"
+  },
+  "author": "feedfeeder",
+  "title": "Elon Musk is bringing lawsuits to Texas. A judge with Tesla stock keeps hearing them  NPR",
+  "description": "Elon Musk is bringing lawsuits to Texas. A judge with Tesla stock keeps hearing themNPR View Full Coverage on Google News ...",
+  "url": "https://slashdot.org/firehose.pl?op=view&amp;id=174713000",
+  "urlToImage": null,
+  "publishedAt": "20240809T23:14:18Z",
+  "content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "npr.org",
+  "title": "Elon Musk is bringing lawsuits to Texas. A judge with Tesla stock keeps hearing them",
+  "description": "U.S. Federal Judge Reed O'Connor has been a longtime active member of the Federalist Society. In 2018, he spoke on a panel at the annual Texas Chapters Conference.\nThe Federalist Society/Screenshot by NPR\ntoggle caption\nThe Federalist Society/Screenshot by NP…",
+  "url": "https://biztoc.com/x/d09cdd075c435029",
+  "urlToImage": "https://biztoc.com/cdn/d09cdd075c435029_s.webp",
+  "publishedAt": "20240809T23:10:53Z",
+  "content": "U.S. Federal Judge Reed O'Connor has been a longtime active member of the Federalist Society. In 2018, he spoke on a panel at the annual Texas Chapters Conference.The Federalist Society/Screenshot by… [+129 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The Star Online"
+  },
+  "author": "ALLISON LAI",
+  "title": "PM: Tesla had to make a Uturn",
+  "description": "KUALA LUMPUR: Tesla’s reported decision to abandon plans to build electric vehicle (EV) factories in Thailand, Malaysia and Indonesia has been attributed to business losses and competition from China, says Datuk Seri Anwar Ibrahim. Read full story",
+  "url": "https://www.thestar.com.my/news/nation/2024/08/10/pmteslahadtomakeauturn",
+  "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/08/10/2850725.jpg",
+  "publishedAt": "20240809T23:00:00Z",
+  "content": "KUALA LUMPUR: Teslas reported decision to abandon plans to build electric vehicle (EV) factories in Thailand, Malaysia and Indonesia has been attributed to business losses and competition from China,… [+2889 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "npr.org",
+  "title": "Elon Musk is bringing lawsuits to Texas. A judge with Tesla stock keeps hearing them",
+  "description": "Judge Reed O’Connor is overseeing two major lawsuits filed by billionaire Elon Musk. Legal experts have raised questions about the judge’s impartiality.\n(Image credit: The Federalist Society)",
+  "url": "https://biztoc.com/x/730478ab290ff4b7",
+  "urlToImage": "https://biztoc.com/cdn/800/og.png",
+  "publishedAt": "20240809T22:37:06Z",
+  "content": "Judge Reed OConnor is overseeing two major lawsuits filed by billionaire Elon Musk. Legal experts have raised questions about the judges impartiality.(Image credit: The Federalist Society)\r\nThis stor… [+33 chars]"
+  }
   ]
-}
+  }

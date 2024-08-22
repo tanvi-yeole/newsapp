@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import News from "../components/News";
 import NewsCard from "../components/Newscard";
 
-const Music = ({ category }) => {
+const Travel = ({ category }) => {
   const [data, setData] = React.useState([]);
   useEffect(() => {
     const fetchData = async () => {
@@ -17,11 +17,7 @@ const Music = ({ category }) => {
   return (
     <div className="mx-4 text-2xl flex gap-5 flex-wrap justify-center items-center py-5 px-10 flex-col">
       <div className="text-center">
-        <h3 className="font-bold text-3xl">
-          Top Headlines -{" "}
-          {category.charAt(0).toUpperCase() +
-            category.slice(1, category.length)}
-        </h3>
+        <h3 className="font-bold text-3xl">Top Headlines - {category.charAt(0).toUpperCase() + category.slice(1,category.length)}</h3>
       </div>
       {/* <News /> */}
       <div className="flex gap-2 flex-wrap justify-center ">
@@ -39,4 +35,4 @@ const Music = ({ category }) => {
   );
 };
 
-export default Music;
+export default Travel;

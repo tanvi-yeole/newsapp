@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import News from "../components/News";
 import NewsCard from "../components/Newscard";
 
-const Music = ({ category }) => {
+const News = ({ category }) => {
   const [data, setData] = React.useState([]);
   useEffect(() => {
     const fetchData = async () => {
@@ -39,4 +39,4 @@ const Music = ({ category }) => {
   );
 };
 
-export default Music;
+export default News;
