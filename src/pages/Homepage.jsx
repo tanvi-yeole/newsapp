@@ -12,9 +12,7 @@ const Homepage = () => {
           "https://newsapi.org/v2/top-headlines?country=us&apiKey=35353a5cc55c45ffa40caf1ae046ad00";
         const response = await fetch(url,{
           mode:'cors',
-          headers:{
-            'Access-Control-Allow-Origin':'*'
-          }
+          
         });
         if (!response.ok) {
           throw new Error("Network response was not ok");
