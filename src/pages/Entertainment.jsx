@@ -7,7 +7,12 @@ const Entertainment = ({ category }) => {
   useEffect(() => {
     const fetchData = async () => {
       const url = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=35353a5cc55c45ffa40caf1ae046ad00`;
-      const response = await fetch(url);
+      const response = await fetch(url,{
+        mode:'cors',
+        headers:{
+          'Access-Control-Allow-Origin':'*'
+        }
+      });
       const data = await response.json();
       console.log(data.articles);
       setData(data.articles);
