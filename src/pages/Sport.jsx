@@ -8,10 +8,7 @@ const Sport = ({ category }) => {
     const fetchData = async () => {
       const url = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=35353a5cc55c45ffa40caf1ae046ad00`;
       const response = await fetch(url,{
-        mode:'cors',
-        headers:{
-          'Access-Control-Allow-Origin':'*'
-        }
+        mode:'cors'
       });
       const data = await response.json();
       console.log(data.articles);

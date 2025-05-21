@@ -1,8 +1,29 @@
-import React from "react";
-import { auth } from "../firebase/Setup";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { navLinks } from "../data/index";
+import { onAuthStateChanged, signOut } from "firebase/auth";
+import { auth } from '../firebase/Setup.js'
+
 const Navbar = () => {
+  const [uid, setUid] = useState(null);
+  onAuthStateChanged(auth, (user) => {
+    if (user) {
+      setUid(user.uid);
+      console.log("User is signed in:", uid);
+    } else {
+      console.log("User is signed out");
+    }
+  });
+
+  const handleLogout = () => {
+    signOut(auth).then(() => {
+      console.log("User signed out");
+      setUid(null);
+    }).catch((error) => {
+      console.error("Error signing out:", error);
+    });
+  }
+
   return (
     <nav className="w-full px-28 py-4 bg-sky-900 text-white transition-all duration-200">
       <div className="flex flex-col md:flex-row gap-3 justify-between items-center transition-all duration-200">
@@ -19,8 +40,8 @@ const Navbar = () => {
           })}
         </ul>
         <div>
-          {auth.currentUser ? (
-            <button className="px-4 py-2 bg-white rounded-md hover:opacity-60 text-black transition-all duration-200">
+          {uid ? (
+            <button className="px-4 py-2 bg-white rounded-md hover:opacity-60 text-black transition-all duration-200" onClick={handleLogout}>
               Logout
             </button>
           ) : (
